@@ -1,21 +1,23 @@
-# Diode vs CO₂ vs fiber vs galvo
+# Laser types: diode, CO₂, fiber, and UV
 
-Not every “laser engraver” does the same job. The four families you will hear about most — **diode**, **CO₂**, **fiber**, and **galvo** — differ in wavelength, what they cut or mark, bed size, and price band. Picking the wrong type is the most expensive beginner mistake we see.
+Not every “laser engraver” does the same job. The laser *type* is the **source** — what makes the beam and at what wavelength. The four you will hear about most are **diode**, **CO₂**, **fiber**, and **UV**. Wavelength decides what a machine can cut or mark, so picking the wrong type is the most expensive beginner mistake we see.
+
+Separately, every machine also has a **motion system** — how the beam gets moved around the work. That is **gantry** or **galvo**, and it is *not* a laser type. A fiber can be galvo, a CO₂ can be gantry or galvo, and so on. See [Galvo vs gantry](#galvo-vs-gantry) below.
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Once you pick a machine, Master LightBurn teaches you to run it well.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=laser-types)
 </div>
 
-This page explains what each is good at and where it struggles. For shopping by budget, see the [laser buying guide](../buying-guides/laser-buying-guide.md).
+This page explains what each source is good at and where it struggles. For shopping by budget, see the [laser buying guide](../buying-guides/laser-buying-guide.md).
 
 ## Quick comparison
 
-| Type | Typical wavelength | Strong at | Weak at | Common form factor |
+| Laser type | Typical wavelength | Strong at | Weak at | Usual motion system |
 | --- | --- | --- | --- | --- |
-| **Diode** | ~450 nm (blue/violet) | Wood, paper, leather, coated metals (mark), some acrylics | Clear acrylic, bare metal cutting, thick stock | Open or enclosed gantry |
-| **CO₂** | ~10.6 µm (infrared) | Wood, acrylic, leather, paper, rubber, fabric, glass etch | Bare metals (reflect / poor absorption) | Enclosed cabinet or open-frame tube |
-| **Fiber** | ~1064 nm | Bare metals (mark/engrave), some plastics | Wood/organic cutting (not the right tool) | Enclosed marking unit or MOPA fiber |
-| **Galvo** | Fiber or CO₂ source + galvo head | Fast marking in a fixed field | Large bed travel jobs | Stationary head, part moves or field-limited |
+| **Diode** | ~450 nm (blue/violet) | Wood, paper, leather, coated metals (mark), some acrylics | Clear acrylic, bare metal cutting, thick stock | Gantry (open or enclosed) |
+| **CO₂** | ~10.6 µm (infrared) | Wood, acrylic, leather, paper, rubber, fabric, glass etch | Bare metals (reflect / poor absorption) | Gantry cabinet; galvo on some marking units |
+| **Fiber** | ~1064 nm | Bare metals (mark/engrave), some plastics | Wood/organic cutting (not the right tool) | Galvo (most small-shop markers) |
+| **UV** | ~355 nm (ultraviolet) | Fine detail with low heat: glass, many plastics, heat-sensitive marks | Cutting, deep engraving, large areas | Galvo |
 
 Exact power ratings and bed sizes vary by model. Treat the table as a map of *capabilities*, not a shopping list.
 
@@ -74,15 +76,37 @@ Fiber lasers deliver energy through a fiber optic cable, typically around 1064 n
 
 MOPA (Master Oscillator Power Amplifier) fiber variants offer more pulse-control flexibility for color marks on some stainless and for sensitive materials. That is a feature set to evaluate when comparing fiber units — not a requirement for every shop.
 
-## Galvo systems
+## UV lasers
 
-“Galvo” describes the **beam steering**: fast galvanometer mirrors aim the beam within a marking field instead of a gantry carrying a head across an X/Y bed.
+UV lasers run around 355 nm. The short wavelength is absorbed at the surface with very little heat spread, which is why they are often called "cold marking."
 
-- **Pros:** very fast marking inside the field; excellent for production nameplates, serials, and logos
-- **Cons:** field size is limited by lens (e.g. a working area measured in inches, not feet); focusing and fixturing matter a lot; large flat sheets often need tiling or a different machine
+**What they do well**
 
-Galvo heads show up on fiber markers most often in small shops, and also on some CO₂ marking systems. The source (fiber vs CO₂) still decides what materials make sense.
+- Crisp marks on glass, many plastics, and coated parts without melting or charring
+- Very fine detail and small text
+- Heat-sensitive products where fiber or CO₂ would discolor or warp
 
+**Where they struggle**
+
+- Cutting or deep engraving — they are markers, not cutters
+- Cost per watt is high, and focus is less forgiving
+
+More detail: [UV lasers](uv-lasers.md).
+
+## Galvo vs gantry
+
+Galvo and gantry are two ways to **move the beam**. Either one can be paired with different laser sources — so "galvo" tells you how the machine works, not what it can mark.
+
+| | **Gantry** | **Galvo** |
+| --- | --- | --- |
+| How it moves the beam | A head rides on X/Y rails across the bed | Two fast mirrors steer the beam through a fixed lens; the head does not move |
+| Work area | Large — often a full bed, sometimes with pass-through | Small field set by the lens (inches, not feet) |
+| Speed | Slower; limited by moving the head's mass | Very fast — mirrors weigh almost nothing |
+| Best for | Cutting, big signs, full sheets, rotary work across long lengths | Production marking: tags, serials, logos, tumblers on a rotary |
+| Focus | Usually one focus height across the bed | Focus is set by lens height; parts must sit in the field and in focus |
+| Common pairings | Diode, CO₂ | Fiber, UV, some CO₂ marking units |
+
+**Rule of thumb:** if you need to *cut* or cover a big area, think gantry. If you need to *mark the same small thing fast, over and over*, think galvo.
 
 <div class="bb-cta bb-cta--mid" markdown="1">
 **Want this to click faster?** [Master LightBurn](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=laser-types) walks the tools and workflows step by step — lifetime access, one clear path.
@@ -92,9 +116,9 @@ Galvo heads show up on fiber markers most often in small shops, and also on some
 
 Ask three questions before you buy:
 
-1. **What material is 80% of my work?** Wood and acrylic → CO₂ or capable diode. Bare metal marks → fiber. Mixed craft goods → often diode first, CO₂ when acrylic volume grows.
+1. **What material is 80% of my work?** Wood and acrylic → CO₂ or capable diode. Bare metal marks → fiber. Glass and heat-sensitive plastics with fine detail → UV. Mixed craft goods → often diode first, CO₂ when acrylic volume grows.
 2. **Do I need cut edges or surface marks?** Cutting thicker stock favors CO₂ (organics) or specialized metal cutters (not covered in depth here). Surface logos on steel favor fiber.
-3. **Do I need speed in a small field or travel across a large bed?** Production tags in a fixed size → galvo. Full-sheet plywood layouts → gantry CO₂ or diode.
+3. **Do I need speed in a small field or travel across a large bed?** That is the motion question, separate from the laser type: production tags in a fixed size → galvo. Full-sheet plywood layouts → gantry CO₂ or diode.
 
 Many growing shops eventually run **more than one type** (for example a CO₂ for acrylic/wood and a fiber for metal). That is normal — one machine rarely wins every job.
 
