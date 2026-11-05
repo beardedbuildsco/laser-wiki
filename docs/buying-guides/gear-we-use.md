@@ -1,29 +1,38 @@
 # Laser gear & supplies we use
 
-Curated Amazon picks from the public [Bearded Builds storefront](https://www.amazon.com/shop/beardedbuildsco?tag=beardedbuilds-20) — machines, air assist, maintenance parts, blanks, and shop tools that show up in real laser workflows. Listings change; always confirm the current ASIN, specs, and fit for *your* machine before you buy.
+Shop machines we partner on plus Amazon picks from our public [Bearded Builds storefront](https://www.amazon.com/shop/beardedbuildsco?tag=beardedbuilds-20) — air assist, maintenance parts, blanks, and shop tools that show up in real laser workflows. Listings change; confirm current specs and fit for *your* shop before you buy.
 
 !!! info "Affiliate disclosure"
-    Some links on this page are **Amazon affiliate links** using our Associates tag. **As an Amazon Associate I earn from qualifying purchases.** If you buy through these links, we may earn a commission at **no extra cost to you**. We also partner with **OneLaser** for production CO₂ machines — [1laser.com/BEARDEDBUILDS](https://1laser.com/BEARDEDBUILDS), code `BEARDEDBUILDS`.
+    Bearded Builds Co is a **OneLaser partner**. Machine links below include our affiliate referral (`sca_ref`) so we may earn a commission at **no extra cost to you**. Discount code used on our channel: `BEARDEDBUILDS`. Partner hub: [1laser.com/BEARDEDBUILDS](https://1laser.com/BEARDEDBUILDS). Some other links on this page are **Amazon affiliate links** using our Associates tag. **As an Amazon Associate I earn from qualifying purchases.**
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Gear helps — Master LightBurn is how you actually earn with it.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=gear-we-use)
 </div>
 
-Prices are omitted on purpose (they move constantly). Prefer the product title link, then double-check compatibility (controller, tube wattage, lens diameter, rotary, etc.).
+Prices are omitted on purpose (they move constantly). Prefer the product title link, then double-check compatibility (controller, wattage, work area, rotary, etc.).
 
-## Laser machines (OMTech)
+## Laser machines (OneLaser)
 
-OMTech CO₂ and fiber listings from the storefront. For a production cabinet CO₂ alternative we partner with, see [OneLaser](https://1laser.com/BEARDEDBUILDS) (code `BEARDEDBUILDS`) and the [laser buying guide](laser-buying-guide.md).
+We partner with **OneLaser**. Links below include our referral; use code `BEARDEDBUILDS` for a discount when checkout accepts it. Compare current specs on each listing, and see the [laser buying guide](laser-buying-guide.md) for how to choose a machine family.
 
-- [OMTech Pronto 130W CO2 Laser Engraver & Cutter | 51" × 35" work area | Up to 1000 mm/s | Autofocus | 2-way…](https://www.amazon.com/dp/B0DBLYN57D?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — CO₂ engraver/cutter from our OMTech storefront list — compare bed size, power, and included chiller/air assist.
-- [OMTech Maker 150W CO2 Laser Engraver & Cutter with Water Chiller | 63" × 40" work area | Up to 600 mm/s | A…](https://www.amazon.com/dp/B0CB5HMNCN?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — CO₂ engraver/cutter from our OMTech storefront list — compare bed size, power, and included chiller/air assist.
-- [OMTech Pro 150W Hybrid Laser Machine for Metal & Nonmetal Cutting | 54" × 34" work area | Autofocus dual he…](https://www.amazon.com/dp/B0BV11QJ1H?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — Hybrid metal + non-metal cutter — verify current specs and enclosure needs before buying.
-- [OMTech Maker 60W CO2 Laser Engraver & Cutter | 24" × 16" work area | Up to 600 mm/s | 2-way pass-through…](https://www.amazon.com/dp/B0CWZZZK1W?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — CO₂ engraver/cutter from our OMTech storefront list — compare bed size, power, and included chiller/air assist.
-- [OMTech 60W MOPA Fiber Laser Engraver with Rotary Axis for Metal Marking | 5.9"x5.9" Working Area, 10000mm/s…](https://www.amazon.com/dp/B0DCFR1CRG?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — Fiber / MOPA marking machine for metal work — confirm field size and LightBurn support on the listing.
-- [OMTech 60W MOPA Fiber Laser Marking Machine with LightBurn and Rotary Axis | 7"x7" Work Area, Color Marking…](https://www.amazon.com/dp/B0BKQH8M6K?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — Fiber / MOPA marking machine for metal work — confirm field size and LightBurn support on the listing.
-- [OMTech 130W CO2 Laser Engraver with LightBurn & Water Chiller, 35x55 Inch Laser Cutting Engraving Machine w…](https://www.amazon.com/dp/B08NCCGNSS?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — CO₂ engraver/cutter from our OMTech storefront list — compare bed size, power, and included chiller/air assist.
-- [OMTech 60W CO2 Laser Engraver, 16"x24" Laser Engraving Machine with 2 Way Pass Air Assist Digital Control P…](https://www.amazon.com/dp/B0C6X4VMY6?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — CO₂ engraver/cutter from our OMTech storefront list — compare bed size, power, and included chiller/air assist.
-- [OMTech 30W Fiber Laser Engraver with Lightburn,Laser Engraving Machine with Red Dot Pointer, 6.9x6.9 Solid…](https://www.amazon.com/dp/B09C8CGVPB?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — Fiber / MOPA marking machine for metal work — confirm field size and LightBurn support on the listing.
+### Cobra (glass CO₂)
+
+- [OneLaser Cobra™ 8 — 90W glass CO₂ engraver/cutter](https://www.1laser.com/products/cobra-8-90w-co2-laser-engraver-cutter?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Compact glass-tube CO₂; ~31.5″ × 19.7″ work area (per listing).
+- [OneLaser Cobra™ 10 — 100W glass CO₂ engraver/cutter](https://www.1laser.com/products/cobra-10-100w-co2-laser-engraver-cutter?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Mid-size glass-tube CO₂; ~39.4″ × 23.6″ work area (per listing).
+- [OneLaser Cobra™ 14 — 130W glass CO₂ engraver/cutter](https://www.1laser.com/products/cobra-14-130w-co2-laser-engraver-cutter?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Large-format glass-tube CO₂; ~55.1″ × 35.4″ work area (per listing).
+
+### Hydra Gen2 (RF / hybrid)
+
+- [OneLaser Hydra™ 7 Gen2 — 70W RF industrial engraver](https://www.1laser.com/products/hydra-7-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Dedicated 70W RF metal-tube CO₂ platform for high-detail engraving.
+- [OneLaser Hydra™ 9 Gen2 — CO₂/RF industrial hybrid](https://www.1laser.com/products/hydra-9-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Hybrid configs (e.g. 38W RF + 100W glass, or 70W RF); mid production bed.
+- [OneLaser Hydra™ 13 Gen2 — CO₂/RF industrial hybrid](https://www.1laser.com/products/hydra-13-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Larger hybrid platform (e.g. 38W RF + 130W glass, or 70W RF).
+- [OneLaser Hydra™ 16 Gen2 — CO₂/RF industrial hybrid](https://www.1laser.com/products/hydra-16-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Largest Gen2 hybrid (e.g. 38W RF + 150W glass, or 70W RF).
+
+### Desktop & specialty
+
+- [OneLaser XRF — 38W RF desktop CO₂ engraver/cutter](https://www.1laser.com/products/onelaser-xrf-desktop-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Compact RF metal-tube desktop; 24″ × 12″ work area (per listing).
+- [OneLaser VertiGo™ — 38W RF rotary laser for drinkware](https://www.1laser.com/products/vertigo-vertical-laser-engraver?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } — Vertical rotary-focused RF engraver built for tumblers, cups, and cylinders.
+
 
 ## Air assist
 
