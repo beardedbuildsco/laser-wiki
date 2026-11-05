@@ -149,6 +149,7 @@ We are not your compliance officer — verify regulations for your location.
 
 ## Related reading
 
+- [Gear we use](gear-we-use.md) (Amazon affiliate picks from our storefront)
 - [Laser types](../machines/laser-types.md)
 - [Ventilation and safety](../machines/ventilation-and-safety.md)
 - [LightBurn basics](../lightburn/lightburn-basics.md)
