@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://learn.beardedbuildsco.com/sitemap.xml

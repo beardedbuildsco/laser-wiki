@@ -1,0 +1,100 @@
+# Bearded Builds Laser Wiki
+site_name: Bearded Builds Laser Wiki
+site_url: https://learn.beardedbuildsco.com/
+site_description: Practical laser engraving guides from Bearded Builds Co — machines, materials, LightBurn, safety, and shop tips.
+site_author: Bearded Builds Co
+
+repo_name: beardedbuildsco/laser-wiki
+repo_url: https://github.com/beardedbuildsco/laser-wiki
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  features:
+    - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  icon:
+    logo: material/book-open-page-variant
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@BeardedBuildsCo
+      name: Bearded Builds Co on YouTube
+    - icon: fontawesome/solid/store
+      link: https://beardedbuildsco.com
+      name: Bearded Builds shop
+    - icon: fontawesome/solid/graduation-cap
+      link: https://course.beardedbuildsco.com/master-lightburn
+      name: Master LightBurn course
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Machines:
+      - Laser types: machines/laser-types.md
+      - Focus and alignment: machines/focus-and-alignment.md
+      - Ventilation and safety: machines/ventilation-and-safety.md
+  - Materials:
+      - What you can laser: materials/what-you-can-laser.md
+      - Starter settings: materials/starter-settings.md
+  - LightBurn:
+      - LightBurn basics: lightburn/lightburn-basics.md
+  - Troubleshooting:
+      - Common LightBurn errors: troubleshooting/common-lightburn-errors.md
+  - Buying guides:
+      - Laser buying guide: buying-guides/laser-buying-guide.md
+  - Projects:
+      - Engraving a plaque: projects/engraving-a-plaque.md
+      - Rotary engraving: projects/rotary-engraving.md
+  - Business:
+      - Pricing laser work: business/pricing-laser-work.md
+  - Glossary: glossary.md
