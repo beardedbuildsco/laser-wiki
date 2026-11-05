@@ -3,7 +3,7 @@
 Buying a laser is less about chasing the highest watt number and more about matching **materials, workspace, and budget** to a machine family you can run safely every week.
 
 !!! info "Affiliate / partner disclosure"
-    Bearded Builds Co is a **OneLaser partner**. Some links on this page are affiliate links — if you buy through them, we may earn a commission at **no extra cost to you**. We only recommend partners we actually work with. Partner link: [https://1laser.com/laserguys](https://1laser.com/laserguys). Discount code used on our channel: `LASERGUYS`.
+    Bearded Builds Co is a **OneLaser partner**. Some links on this page are affiliate links — if you buy through them, we may earn a commission at **no extra cost to you**. We only recommend partners we actually work with. Partner link: [https://1laser.com/laserguys](https://1laser.com/laserguys). Discount code used on our channel: `BEARDEDBUILDS`.
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Buying the machine is step one — Master LightBurn is how you earn with it.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=laser-buying-guide)
@@ -117,7 +117,7 @@ Priorities: fiber marking systems; understand field size on galvo units; fixture
 When a **CO₂ / production cabinet** is the right fit for your shop, we partner with **OneLaser**. Use our affiliate link and the discount code from our channel:
 
 - Link: [https://1laser.com/laserguys](https://1laser.com/laserguys)
-- Code: `LASERGUYS`
+- Code: `BEARDEDBUILDS`
 
 Compare current models and pricing on their site — we do not invent specs here. Pair any new machine with [ventilation and safety](../machines/ventilation-and-safety.md) and [Master LightBurn](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=laser-buying-guide) so the investment earns.
 
@@ -164,7 +164,7 @@ Structured LightBurn training from Bearded Builds — skip the scattered YouTube
 
 [**View the course →**](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=laser-buying-guide){: .bb-cta__btn }
 
-- **OneLaser partner:** shop via our link [https://1laser.com/laserguys](https://1laser.com/laserguys) — code `LASERGUYS`
+- **OneLaser partner:** shop via our link [https://1laser.com/laserguys](https://1laser.com/laserguys) — code `BEARDEDBUILDS`
 
 Also: [Shop custom plaques](https://beardedbuildsco.com) · [YouTube](https://www.youtube.com/@BeardedBuildsCo) · [Course hub](https://course.beardedbuildsco.com?utm_source=wiki&utm_medium=cta&utm_campaign=laser-buying-guide-hub)
 </div>
