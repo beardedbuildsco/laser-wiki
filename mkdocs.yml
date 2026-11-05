@@ -83,13 +83,21 @@ nav:
       - Laser types: machines/laser-types.md
       - Focus and alignment: machines/focus-and-alignment.md
       - Ventilation and safety: machines/ventilation-and-safety.md
+      - CO2 tube and mirror maintenance: machines/co2-tube-and-mirror-maintenance.md
+      - Fiber laser basics and marking: machines/fiber-laser-basics-and-marking.md
+      - UV lasers: machines/uv-lasers.md
   - Materials:
       - What you can laser: materials/what-you-can-laser.md
       - Starter settings: materials/starter-settings.md
+      - Fiber metal marking: materials/fiber-metal-marking.md
   - LightBurn:
       - LightBurn basics: lightburn/lightburn-basics.md
   - Troubleshooting:
       - Common LightBurn errors: troubleshooting/common-lightburn-errors.md
+      - CO2 common problems: troubleshooting/co2-common-problems.md
+      - Fiber common problems: troubleshooting/fiber-common-problems.md
+  - Safety:
+      - Laser eye safety and fire: safety/laser-eye-safety-and-fire.md
   - Buying guides:
       - Laser buying guide: buying-guides/laser-buying-guide.md
   - Projects:
@@ -97,4 +105,5 @@ nav:
       - Rotary engraving: projects/rotary-engraving.md
   - Business:
       - Pricing laser work: business/pricing-laser-work.md
+  - Common mistakes: common-mistakes.md
   - Glossary: glossary.md
