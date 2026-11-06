@@ -96,6 +96,7 @@ If you need plaques made rather than making them yourself, that is literally our
 
 ## Related reading
 
+- [Finding customers](../business/finding-customers.md) — who buys plaques and how to reach them
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Pricing laser work](../business/pricing-laser-work.md)
 - [Starter settings](../materials/starter-settings.md)

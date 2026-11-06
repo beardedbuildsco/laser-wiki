@@ -72,6 +72,7 @@ Most drinkware workflows engrave **coatings** (powder coat, paint, specialized l
 
 ## Related reading
 
+- [Finding customers](../business/finding-customers.md) — local businesses reorder drinkware
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Focus and alignment](../machines/focus-and-alignment.md)
 - [Starter settings](../materials/starter-settings.md)

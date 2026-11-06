@@ -149,6 +149,7 @@ We are not your compliance officer — verify regulations for your location.
 
 ## Related reading
 
+- [Finding customers](../business/finding-customers.md) — pick a customer lane before you buy for “everyone”
 - [Gear we use](gear-we-use.md) (Amazon affiliate picks from our storefront)
 - [Laser types](../machines/laser-types.md)
 - [Ventilation and safety](../machines/ventilation-and-safety.md)

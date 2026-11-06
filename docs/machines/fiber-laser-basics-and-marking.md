@@ -64,6 +64,7 @@ Details and material notes: [fiber metal marking](../materials/fiber-metal-marki
 
 ## Related reading
 
+- [Finding customers](../business/finding-customers.md) — industrial / asset-tag lane
 - [Fiber common problems](../troubleshooting/fiber-common-problems.md)
 - [UV lasers](uv-lasers.md)
 - [Laser buying guide](../buying-guides/laser-buying-guide.md)

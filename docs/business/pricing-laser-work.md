@@ -108,6 +108,7 @@ Revisit menu prices when:
 
 ## Related reading
 
+- [Finding customers for your laser business](finding-customers.md)
 - [Engraving a plaque](../projects/engraving-a-plaque.md)
 - [Laser buying guide](../buying-guides/laser-buying-guide.md)
 - [LightBurn basics](../lightburn/lightburn-basics.md)
