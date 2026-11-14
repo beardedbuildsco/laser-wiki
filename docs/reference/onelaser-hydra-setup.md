@@ -7,12 +7,12 @@ description: How to set up a OneLaser Hydra (Gen2 Pro or Hybrid), with OneLaser'
 
 # OneLaser Hydra Gen2 Setup Guide
 
-My Hydra 13 is the big cutter in my shop. It has a 130 W glass tube for cutting plus a 38 W RF tube for detail, and it'll take most of a 4×8 sheet if I trim one end. I filmed the whole setup in five parts, so this page combines OneLaser's official Gen2 instructions with what I ran into doing it myself.
+My Hydra 13 is the big cutter in my shop. It has a 130 W glass tube for cutting plus a 38 W RF tube for detail, and it'll take most of a 4×8 sheet if I trim one end. I filmed the whole setup as a five-part series, and each step below links the part (and the spot in it) where I do that step. This page combines OneLaser's official Gen2 instructions with what I ran into doing it myself.
 
 Coming from an OMTech? See the [OMTech setup guide](omtech-setup-guide.md) for the basics. The Hydra handles a lot of them for you.
 
 !!! info "Gen1 vs Gen2"
-    My Hydra 13 is a first-generation hybrid (130 W glass + 38 W RF). Most of the setup is the same on Gen2. Where my notes come from my Gen1 machine, I've said so.
+    My Hydra 13 is a first-generation hybrid (130 W glass + 38 W RF), and **every video in my Hydra series was filmed on that Gen1 machine**. Most of the setup is the same on Gen2. Where my notes or videos show Gen1 hardware, I've said so.
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Running a Hydra? Master LightBurn shows you how to get production-speed results from it.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=onelaser-hydra-setup)
@@ -25,9 +25,16 @@ Hydra Gen2 is a floor-standing **CO₂** gantry laser with servo motion. It come
 
 Models: [Hydra 7 Gen2](https://www.1laser.com/products/hydra-7-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } · [Hydra 9 Gen2](https://www.1laser.com/products/hydra-9-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } · [Hydra 13 Gen2](https://www.1laser.com/products/hydra-13-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" } · [Hydra 16 Gen2](https://www.1laser.com/products/hydra-16-gen-2-70w-rf-co2-dual-laser-machine?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" }
 
-<div class="bb-video" markdown="0">
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/jIzhCY4Srfo" title="OneLaser Hydra 13 Unboxing & Setup Guide (Part 1) — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+!!! tip "Full Hydra series (my YouTube playlist)"
+    Filmed on my Gen1 Hydra 13. Watch the whole thing in the [Hydra Setup From One Laser playlist](https://www.youtube.com/playlist?list=PLCIBAT87HNgY5HlJub9LA7I58HGqKWCo6).
+
+    1. [Part 1 – OneLaser Hydra 13 Unboxing & Setup Guide | Laser Machine Crate Removal](https://youtu.be/jIzhCY4Srfo)
+    2. [Part 2 – Unwrapping, Inspection & Accessories Overview](https://youtu.be/mvyz4rRrLws)
+    3. [Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM)
+    4. [Part 4 – How to Check CO2 Laser Alignment (Glass + RF)](https://youtu.be/I1nl4DLJdhE)
+    5. [Part 5 – Connect to LightBurn & Run Your First Project](https://youtu.be/uB9iavKPw44)
+
+    Follow-ups: [Install Compressor Air Assist for Cleaner Cuts & Engraving](https://youtu.be/nuc9LDctHps) · [How to Clean a CO2 Laser Lens & Mirrors | Hydra 13](https://youtu.be/aefgWz4-gKs) · [Why did they buy a Hydra 9??? (Hooks Design Co)](https://youtu.be/MHP87JAPBc8)
 
 ## At a glance
 
@@ -61,7 +68,22 @@ The Hydra arrives in a big crate.
 
 **Parts list:** OneLaser publishes the [Hydra Gen 2 manual](https://wiki.1laser.com/hydra-gen-2) on its wiki if you want to check the box contents.
 
-Videos: [Part 1, crate removal](https://youtu.be/jIzhCY4Srfo) · [Part 2, unwrapping and accessories](https://youtu.be/mvyz4rRrLws)
+**What I found unwrapping mine (Gen1):**
+- Check the crate itself first. Crate damage is your cue to contact OneLaser before you go further.
+- Open the rear and side doors with the panel keys and look over the glass tube closely. A few water spots inside are normal, since they test-fire before shipping.
+- The toolbox had a lens/mirror tool, a second wider nozzle (handy for longer focal lenses), power cords, the chiller alarm cable, network and USB cables, chiller hoses, Allen keys and a bottle of antifreeze.
+- The exhaust kit was an **8″ fan with 8″ duct**, matching an 8″ port on the machine, plus a good-sized stock air pump.
+- The chiller rode in my crate, but it's a separate purchase. Make sure it's in your cart.
+
+**Getting it off the pallet:** the Hydra sits on real casters. Raise the leveling feet, unlock the wheels, and roll it down a ramp. I built mine from the crate panels with some plywood strips under the wheel paths. Two people handled it. A forklift or skid steer works too.
+
+**Watch:** [Hydra series Part 1 – OneLaser Hydra 13 Unboxing & Setup Guide | Laser Machine Crate Removal](https://youtu.be/jIzhCY4Srfo) — ramp plan at [3:11](https://youtu.be/jIzhCY4Srfo?t=191s), casters at [3:31](https://youtu.be/jIzhCY4Srfo?t=211s), rolling it off at [4:57](https://youtu.be/jIzhCY4Srfo?t=297s).
+
+**Watch:** [Hydra series Part 2 – Unwrapping, Inspection & Accessories Overview](https://youtu.be/mvyz4rRrLws) — inspection and accessories walkthrough (no chapters or timestamps available).
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/jIzhCY4Srfo" title="Hydra series Part 1 – Crate Removal — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 2. Electrical: plan for 20 A
 
@@ -70,6 +92,8 @@ The plugs on my Hydra are **20 A plugs**, and all the accessories plug into the 
 **What I recommend:** a dedicated **20 A circuit with a 20 A receptacle**. On less, you risk tripping the breaker or running the line hot.
 
 **What OneLaser says:** "confirm circuit capacity," but no amperage figure is published for Gen2. Ask them if you're wiring a new circuit.
+
+**Watch:** [Hydra series Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM?t=20s) at 0:20 — the 20 A plug on my Gen1 machine.
 
 ### 3. Exhaust
 
@@ -87,7 +111,9 @@ The fan and duct come in the box.
 - **OneLaser's guidance:** on flexible duct, put the fan near the machine; on rigid pipe, at the far end.
 - On a short flex run, either way works.
 
-**Fan size:** OneLaser says Hydras need a stronger fan than their X-Series target of ~366 m³/h at 578 Pa ([source](https://wiki.1laser.com/en/x-series/smoke-escaping-exhaust-optimization)). They don't publish an exact Hydra number.
+**Fan size:** OneLaser says Hydras need a stronger fan than their X-Series target of ~366 m³/h at 578 Pa ([source](https://wiki.1laser.com/en/x-series/smoke-escaping-exhaust-optimization)). They don't publish an exact Hydra number. My Gen1 Hydra 13 shipped with an 8″ fan and 8″ duct to an 8″ port, so no 6″-to-8″ adapter.
+
+**Watch:** [Hydra series Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM?t=62s) — fan direction and placement at [1:02](https://youtu.be/or8JsjOrjMM?t=62s), clamps at [1:44](https://youtu.be/or8JsjOrjMM?t=104s), plugging into the back at [2:06](https://youtu.be/or8JsjOrjMM?t=126s).
 
 ### 4. Air assist
 
@@ -105,11 +131,19 @@ The fan and duct come in the box.
 - inline regulator at about **50 PSI**, never over the machine's 55 PSI limit
 - high-flow cutting dialed to about **20 PSI** on the controller
 
-Video: [Hydra compressor air assist install](https://youtu.be/nuc9LDctHps). For a regulator and quiet compressor, see [Gear we use](../buying-guides/gear-we-use.md).
+**High vs low air from LightBurn:** with the Air Assist Control installed, turning **Air** on in a layer asks for high flow and turning it off gives low flow. I leave it off for engraving and on for cuts.
+
+**Smart fan and pump control:** the controller's **Menu → External devices** has an intelligent mode that runs the pump and exhaust with start and end delays. I turn it off so both run at 100 % the whole time.
+
+For a regulator and quiet compressor, see [Gear we use](../buying-guides/gear-we-use.md).
+
+**Watch:** [Hydra series Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM?t=146s) — stock air pump hookup at [2:26](https://youtu.be/or8JsjOrjMM?t=146s), external-devices smart mode at [12:27](https://youtu.be/or8JsjOrjMM?t=747s).
+
+**Watch:** [Hydra follow-up: Install Compressor Air Assist for Cleaner Cuts & Engraving](https://youtu.be/nuc9LDctHps) — what's in the kit at [0:41](https://youtu.be/nuc9LDctHps?t=41s), bypassing the stock solenoid at [1:22](https://youtu.be/nuc9LDctHps?t=82s), compressor and regulator pressures at [13:19](https://youtu.be/nuc9LDctHps?t=799s), high/low flow in LightBurn at [14:22](https://youtu.be/nuc9LDctHps?t=862s).
 
 ### 5. Chiller (Hybrid only)
 
-Use the OneLaser chiller or an S&A CW-5000-series unit, per the manual. OneLaser sells the [OneLaser Chiller for Hydra & Cobra](https://www.1laser.com/products/onelaser-industrial-chiller-for-hydra-laser-engraver?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" }. Confirm with OneLaser whether a chiller is included in your package.
+Use the OneLaser chiller or an S&A CW-5000-series unit, per the manual. OneLaser sells the [OneLaser Chiller for Hydra & Cobra](https://www.1laser.com/products/onelaser-industrial-chiller-for-hydra-laser-engraver?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" }. My chiller was a separate purchase (it shipped in the same crate). Whatever you buy, make it a real refrigerated chiller, a 5000-series or higher, not a passive radiator unit.
 
 **Hookup:**
 1. Chiller **OUTLET** → machine **Water IN**.
@@ -134,8 +168,10 @@ Use the OneLaser chiller or an S&A CW-5000-series unit, per the manual. OneLaser
 
 **Chiller won't power on?** OneLaser has a [troubleshooting page](https://wiki.1laser.com/en/hydra-series/chiller-not-power-on-ac-contactor-fix) for that, under the heading "Chiller does not power on (AC contactor blue button not engaging)".
 
+**Watch:** [Hydra series Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM?t=229s) — alarm cable and hoses at [3:49](https://youtu.be/or8JsjOrjMM?t=229s), coolant and filling at [4:10](https://youtu.be/or8JsjOrjMM?t=250s), hookup at [5:26](https://youtu.be/or8JsjOrjMM?t=326s), checking the tube for leaks and bubbles at [8:14](https://youtu.be/or8JsjOrjMM?t=494s), intelligent vs constant mode at [9:18](https://youtu.be/or8JsjOrjMM?t=558s), programming F3/F0 at [10:01](https://youtu.be/or8JsjOrjMM?t=601s).
+
 <div class="bb-video" markdown="0">
-<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/or8JsjOrjMM" title="Hydra 13 Laser Setup Part 3 – Inline Fan, Air Pump & Water Chiller — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/or8JsjOrjMM?start=229" title="Hydra series Part 3 – Chiller, Exhaust & Air Pump — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### 6. First power-on
@@ -146,6 +182,12 @@ Use the OneLaser chiller or an S&A CW-5000-series unit, per the manual. OneLaser
 4. Jog **X, Y and Z** to make sure everything moves the right way.
 
 OneLaser's manual also says to check that the exhaust and cooling indicators show normal before running.
+
+**Test the interlocks:** **Menu → Diagnostics** shows each sensor live. Open a door or the lid and confirm it registers before you fire anything.
+
+**Watch:** [Hydra series Part 3 – How to Set Up a CO2 Laser Chiller, Exhaust & Air Pump](https://youtu.be/or8JsjOrjMM?t=408s) at 6:48 — keys, e-stop, first power-on and homing.
+
+**Watch:** [Hydra series Part 4 – How to Check CO2 Laser Alignment (Glass + RF)](https://youtu.be/I1nl4DLJdhE?t=20s) — controller tour at [0:20](https://youtu.be/I1nl4DLJdhE?t=20s), manual nudge moves at [1:45](https://youtu.be/I1nl4DLJdhE?t=105s), diagnostics and interlocks at [4:14](https://youtu.be/I1nl4DLJdhE?t=254s).
 
 ### 7. Check alignment
 
@@ -159,15 +201,21 @@ OneLaser aligns these at the factory. Their manual still says to run a test firs
 
 If they don't stack, see my [alignment principles](https://youtu.be/6GtwjxUpEEs) video before touching anything. You can also run MakerBoost's *Scanning offset adjust* to fix line shift.
 
-Video: [Part 4, controller overview and alignment check](https://youtu.be/I1nl4DLJdhE)
+**Watch:** [Hydra series Part 4 – How to Check CO2 Laser Alignment (Glass + RF)](https://youtu.be/I1nl4DLJdhE?t=527s) — alignment menu and pulse power at [6:20](https://youtu.be/I1nl4DLJdhE?t=380s), tape check at [9:09](https://youtu.be/I1nl4DLJdhE?t=549s), glass tube at [9:50](https://youtu.be/I1nl4DLJdhE?t=590s), RF tube at [10:32](https://youtu.be/I1nl4DLJdhE?t=632s), where the adjustments are (including the RF lift mirror) at [11:33](https://youtu.be/I1nl4DLJdhE?t=693s).
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/I1nl4DLJdhE?start=527" title="Hydra series Part 4 – Check CO2 Laser Alignment — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 8. Connect LightBurn
 
 **Basic setup:**
-1. Install the [LightBurn trial](https://lightburnsoftware.com/pages/download-trial).
-2. Add the device: **Ruida**, choose your connection, set the origin to **rear left**, then **Finish**.
-3. Recent versions (2.0+) make this quicker than the old manual describes.
-4. Back up your machine settings right away.
+1. Install [LightBurn](https://lightburnsoftware.com/pages/download-trial) (the trial works to start). Ruida/DSP machines need the **Pro** license after the trial, and you must install the **DSP/Ruida drivers** during setup or the computer can't talk to the laser.
+2. With the laser on and connected by USB, go to **Devices → Find My Laser**, pick the serial option and **Add Device**.
+3. Name it, set the origin to **rear left**, then **Finish**. LightBurn 2.0+ means you can skip the RDWorks steps in the manual.
+4. In **Device Settings → Basic**, turn on **Enable Laser 2 controls** and **Laser 2 is RF tube**. Each layer then gets a Laser 1 / Laser 2 choice.
+5. Switch LightBurn to **millimeters**, enable **Scanning Offset Adjustment**, and type in the values from the card OneLaser includes, one column per tube.
+6. Back up your machine settings right away.
 
 **Wi-Fi:** this follows OneLaser's [Hydra Wi-Fi guide](https://wiki.1laser.com/en/hydra-series/connect-hydra-to-lightburn-via-wifi).
 1. Inside the bottom-right door, make sure the network module switch is set to **Wi-Fi** (button 1), not LAN.
@@ -177,9 +225,13 @@ Video: [Part 4, controller overview and alignment check](https://youtu.be/I1nl4D
 
 **Using your shop Wi-Fi instead:** you can bridge the hotspot to your shop router. If you have a Wi-Fi 6 router, turn on Wi-Fi 4/5 compatibility.
 
-**Two tubes:** set up laser 1 and laser 2 in LightBurn, and load the test-card settings OneLaser provides for each tube.
+**Watch:** [Hydra series Part 5 – Connect to LightBurn & Run Your First Project](https://youtu.be/uB9iavKPw44) — skipping RDWorks in 2.0 at [0:23](https://youtu.be/uB9iavKPw44?t=23s), Pro license and drivers at [0:45](https://youtu.be/uB9iavKPw44?t=45s), Find My Laser at [1:05](https://youtu.be/uB9iavKPw44?t=65s), rear-left origin at [1:53](https://youtu.be/uB9iavKPw44?t=113s), laser 2 controls at [2:34](https://youtu.be/uB9iavKPw44?t=154s), scanning offsets at [3:17](https://youtu.be/uB9iavKPw44?t=197s).
 
-Video: [Part 5, connect LightBurn and run your first project](https://youtu.be/uB9iavKPw44)
+**Wi-Fi:** I haven't filmed the Hydra Wi-Fi setup. The IP settings menu on the controller shows up in [Part 4 at 3:51](https://youtu.be/I1nl4DLJdhE?t=231s).
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/uB9iavKPw44" title="Hydra series Part 5 – Connect to LightBurn — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### 9. Focus
 
@@ -193,10 +245,12 @@ This follows OneLaser's [focus guide](https://wiki.1laser.com/en/hydra-series/ho
 2. Slide it under the head.
 3. Raise the bed until the head just touches the gauge.
 
+**Watch:** [Hydra series Part 4 – How to Check CO2 Laser Alignment (Glass + RF)](https://youtu.be/I1nl4DLJdhE?t=483s) at 8:03 — the autofocus button and its "put something under the head" warning.
+
 ### 10. Maintenance rhythm
 
 **Cleaning the optics:** OneLaser's [maintenance guide](https://wiki.1laser.com/en/hydra-series/maintenance-guide) says to use their lens cleaning solution or **anhydrous ethanol**, and **not isopropyl alcohol**, which they say can damage the mirror coatings.
-- **Heads up:** in my [Hydra 13 cleaning video](https://youtu.be/aefgWz4-gKs) I used 99 % IPA. Go with OneLaser's recommendation to protect your warranty.
+- **Heads up:** in my cleaning video below I used 99 % IPA. Go with OneLaser's recommendation to protect your warranty.
 - Wipe side to side, not in circles.
 - Put the focus lens back **convex side up** (flat side down).
 
@@ -212,6 +266,18 @@ This follows OneLaser's [focus guide](https://wiki.1laser.com/en/hydra-series/ho
 
 Also blow out the RF tube cooling fan and exhaust fan, empty the waste hopper, and lightly oil the rails and the Z screw.
 
+**Watch:** [Hydra follow-up: How to Clean a CO2 Laser Lens & Mirrors | Hydra 13](https://youtu.be/aefgWz4-gKs) — supplies at [0:20](https://youtu.be/aefgWz4-gKs?t=20s), mirrors at [1:22](https://youtu.be/aefgWz4-gKs?t=82s), the pass-through mirror at [3:04](https://youtu.be/aefgWz4-gKs?t=184s), the focus lens at [3:46](https://youtu.be/aefgWz4-gKs?t=226s), lens orientation at [5:18](https://youtu.be/aefgWz4-gKs?t=318s). Swap the IPA for OneLaser's cleaner or anhydrous ethanol.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/aefgWz4-gKs" title="How to Clean a CO2 Laser Lens & Mirrors – Hydra 13 — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### 11. First project
+
+Once LightBurn shows **Ready** and the offsets are in, run a small engrave on the RF tube and a cut on the glass tube. Start from the settings OneLaser includes, then dial in with test cards (see the [OMTech guide](omtech-setup-guide.md#13-test-cards)).
+
+**Watch:** [Hydra series Part 5 – Connect to LightBurn & Run Your First Project](https://youtu.be/uB9iavKPw44?t=332s) at 5:32 — finding your own scanning offsets, then running the first projects.
+
 ## Home/shop checklist
 
 1. **Delivery:** confirm the doorway and floor first, and leave room behind for the exhaust and chiller.
@@ -224,24 +290,19 @@ Also blow out the RF tube cooling fan and exhaust fan, empty the waste hopper, a
 ## Still unknown / confirm with OneLaser
 
 - **Amperage:** OneLaser hasn't published Gen2 amperage; 20 A is my recommendation based on my machine's plug.
-- **Exhaust:** port diameter and the exact fan spec for Hydras ("higher than X-Series").
+- **Exhaust:** the exact fan spec for Gen2 Hydras ("higher than X-Series"). My Gen1 had an 8″ port, fan and duct; confirm Gen2 matches.
 - **Size and weight:** for the Hydra 13 and 16 Gen2.
-- **Chiller:** whether one and an antifreeze bottle come with Gen2 Hybrid packages. Mine (Gen1) came with propylene glycol.
+- **Chiller:** it was a separate purchase for my Gen1 (the antifreeze bottle was in the toolbox). Confirm what Gen2 Hybrid bundles include.
 - **Laser class:** Class 1 vs Class II.
 
-## Sources and more videos
+## Sources
 
 **OneLaser:**
 - [Hydra Series Wiki](https://wiki.1laser.com/en/hydra-series)
 - [Hydra Gen 2 manual (wiki)](https://wiki.1laser.com/hydra-gen-2)
 - [Hydra Gen 2 User's Manual (PDF)](https://cdn.shopify.com/s/files/1/0747/8748/7778/files/ONELASER_Hydra_Gen_2_Users_Manual-251126.pdf?v=1773987311)
 
-**My videos:**
-- [Hydra 13 Part 1](https://youtu.be/jIzhCY4Srfo) · [Part 2](https://youtu.be/mvyz4rRrLws) · [Part 3](https://youtu.be/or8JsjOrjMM) · [Part 4](https://youtu.be/I1nl4DLJdhE) · [Part 5](https://youtu.be/uB9iavKPw44)
-- [Compressor air assist](https://youtu.be/nuc9LDctHps)
-- [Lens and mirror cleaning](https://youtu.be/aefgWz4-gKs)
-- [Why did they buy a Hydra 9?](https://youtu.be/MHP87JAPBc8)
-- [Best laser for your small business](https://youtu.be/HOh6qitWLqI)
+**My videos:** the full Hydra series is listed near the top of this page. Also: [Best laser for your small business](https://youtu.be/HOh6qitWLqI)
 
 **Accessories:**
 - [Multi-Function Rotary (Hydra & Cobra)](https://www.1laser.com/products/multi-function-rotary-axis-57-motor?sca_ref=10053141.1zp8EjLd81){: rel="nofollow sponsored" target="_blank" }
