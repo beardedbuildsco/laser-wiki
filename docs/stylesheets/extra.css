@@ -1,3 +1,281 @@
+/* ==========================================================================
+   Laser Learning Lab brand (matches course.beardedbuildsco.com)
+   Colors/fonts pulled from the public Systeme.io course site theme:
+   page bg #FCF7FC, text/buttons #1B022F, muted nav #5D5666,
+   links #8B3DFF, borders #E9E9E9, font Inter, buttons 16px radius.
+   ========================================================================== */
+:root {
+  --bb-plum: #1b022f;
+  --bb-plum-2: #2c0a47;
+  --bb-muted: #5d5666;
+  --bb-purple: #8b3dff;
+  --bb-purple-dark: #6a1fe0;
+  --bb-bg: #fcf7fc;
+  --bb-surface: #ffffff;
+  --bb-border: #e9e9e9;
+  --bb-laser-red: #b3172f;
+  --bb-radius: 16px;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: var(--bb-bg);
+  --md-default-fg-color: rgba(27, 2, 47, 0.92);
+  --md-default-fg-color--light: rgba(27, 2, 47, 0.62);
+  --md-default-fg-color--lighter: rgba(27, 2, 47, 0.32);
+  --md-default-fg-color--lightest: rgba(27, 2, 47, 0.10);
+  --md-typeset-color: var(--bb-plum);
+  --md-code-bg-color: #f5edf7;
+  --md-footer-bg-color: var(--bb-bg);
+  --md-footer-bg-color--dark: var(--bb-bg);
+  --md-footer-fg-color: var(--bb-plum);
+  --md-footer-fg-color--light: var(--bb-muted);
+  --md-footer-fg-color--lighter: var(--bb-muted);
+}
+[data-md-color-scheme="default"][data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--bb-plum);
+  --md-primary-fg-color--light: var(--bb-plum-2);
+  --md-primary-fg-color--dark: #12001f;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: rgba(255, 255, 255, 0.7);
+  --md-typeset-a-color: var(--bb-purple);
+}
+[data-md-color-scheme="default"][data-md-color-accent="custom"] {
+  --md-accent-fg-color: var(--bb-purple-dark);
+  --md-accent-fg-color--transparent: rgba(139, 61, 255, 0.1);
+  --md-accent-bg-color: #ffffff;
+}
+
+/* Dark mode: same brand, plum night version */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #140122;
+  --md-default-bg-color--light: rgba(20, 1, 34, 0.54);
+  --md-code-bg-color: #22093a;
+  --md-footer-bg-color: #140122;
+  --md-footer-bg-color--dark: #140122;
+  --md-footer-fg-color: #f3eaff;
+  --md-footer-fg-color--light: #c7bcd4;
+  --md-footer-fg-color--lighter: #c7bcd4;
+  --bb-bg: #140122;
+  --bb-surface: #1d0630;
+  --bb-border: #34184d;
+}
+[data-md-color-scheme="slate"][data-md-color-primary="custom"] {
+  --md-primary-fg-color: #f3eaff;
+  --md-primary-fg-color--light: #ffffff;
+  --md-primary-fg-color--dark: #d9c6ff;
+  --md-primary-bg-color: var(--bb-plum);
+  --md-primary-bg-color--light: rgba(27, 2, 47, 0.7);
+  --md-typeset-a-color: #b48cff;
+}
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-accent-fg-color: #c9a8ff;
+  --md-accent-fg-color--transparent: rgba(180, 140, 255, 0.12);
+  --md-accent-bg-color: var(--bb-plum);
+}
+
+/* Typography: Inter, plum headings like the course site */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+.md-typeset h1 { font-weight: 700; }
+.md-typeset a:hover { color: var(--md-accent-fg-color); }
+
+/* ---- Header: light bar, logo, muted nav links, plum Login pill ---- */
+.md-header {
+  background-color: var(--bb-bg);
+  color: var(--md-primary-fg-color);
+  box-shadow: none;
+  border-bottom: 1px solid var(--bb-border);
+}
+.md-header--shadow {
+  box-shadow: 0 2px 12px rgba(27, 2, 47, 0.06);
+}
+.md-header__inner { align-items: center; }
+.md-header__button.md-logo { padding: 0.2rem 0.4rem; margin: 0.1rem 0.2rem; }
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+}
+/* Course site header is logo-only (the logo already says "Laser Learning Lab"),
+   so the text title collapses and the site links take the middle of the bar. */
+.md-header__title { flex-grow: 0; width: 0; margin: 0; overflow: hidden; }
+.md-header__button[for="__drawer"] { order: -1; }
+.md-header__topic:first-child { font-weight: 600; }
+
+.bb-sitenav {
+  display: flex;
+  align-items: center;
+  gap: 1.6rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+  white-space: nowrap;
+}
+.bb-sitenav__link {
+  color: var(--bb-muted);
+  font-size: 0.7rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 125ms;
+}
+[data-md-color-scheme="slate"] .bb-sitenav__link { color: #c7bcd4; }
+.bb-sitenav__link:hover,
+.bb-sitenav__link:focus,
+.bb-sitenav__link--active {
+  color: var(--md-primary-fg-color);
+}
+/* "Gear I use" gets a highlighted pill so it stands out */
+.bb-sitenav__link--gear {
+  color: var(--bb-purple);
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+  border: 1.5px solid var(--bb-purple);
+  border-radius: var(--bb-radius);
+}
+.bb-sitenav__link--gear:hover,
+.bb-sitenav__link--gear:focus {
+  color: #fff;
+  background: var(--bb-purple);
+}
+[data-md-color-scheme="slate"] .bb-sitenav__link--gear { color: #c9a8ff; border-color: #b48cff; }
+[data-md-color-scheme="slate"] .bb-sitenav__link--gear:hover { color: var(--bb-plum); background: #c9a8ff; }
+
+.bb-login {
+  display: inline-block;
+  margin: 0 0.4rem 0 0.6rem;
+  padding: 0.45rem 0.9rem;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  font-size: 0.7rem;
+  font-weight: 600;
+  border-radius: var(--bb-radius);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.bb-login:hover { background: var(--md-primary-fg-color--light); }
+
+/* Search box on a light header */
+.md-search__form {
+  background-color: var(--bb-surface);
+  border: 1px solid var(--bb-border);
+  border-radius: var(--bb-radius);
+}
+.md-search__form:hover { background-color: var(--bb-surface); border-color: var(--md-default-fg-color--lighter); }
+.md-search__input { color: var(--md-default-fg-color); }
+.md-search__input::placeholder,
+.md-search__icon { color: var(--md-default-fg-color--light); }
+[data-md-toggle="search"]:checked ~ .md-header .md-search__form { border-radius: 0.6rem 0.6rem 0 0; }
+@media screen and (min-width: 60em) {
+  .md-search__input + .md-search__icon { color: var(--md-default-fg-color--light); }
+}
+
+/* The course site has no repo link in its header; keep the header clean */
+.md-header__source { display: none; }
+/* Show the logo on tablets/phones too (Material hides it there), like the course site */
+@media screen and (max-width: 76.234375em) {
+  .md-header__button.md-logo { display: inline-block; }
+}
+/* Repo source + palette toggle colors on the light header */
+.md-header__source, .md-source { color: var(--bb-muted); }
+[data-md-color-scheme="slate"] .md-header__source, [data-md-color-scheme="slate"] .md-source { color: #c7bcd4; }
+
+/* Responsive header: course-site links on big screens, Gear pill always */
+@media screen and (max-width: 76.234375em) {
+  .bb-sitenav { gap: 1rem; padding: 0 0.6rem; }
+}
+@media screen and (max-width: 59.984375em) {
+  .bb-sitenav__link:not(.bb-sitenav__link--gear) { display: none; }
+  .bb-sitenav { margin: 0 0 0 auto; padding: 0 0.4rem; }
+}
+@media screen and (max-width: 44.984375em) {
+  .bb-login { display: none; }
+  .md-header__button.md-logo img { height: 1.6rem; }
+
+  .bb-sitenav__link--gear { font-size: 0.65rem; padding: 0.25rem 0.6rem; }
+}
+
+/* Announcement bar: plum strip like the course site's dark buttons */
+.md-banner {
+  background-color: var(--bb-plum);
+  color: #ffffff;
+}
+[data-md-color-scheme="slate"] .md-banner { background-color: #2a0b44; }
+.md-banner__inner { font-size: 0.7rem; }
+.md-banner .md-typeset a,
+.md-banner .md-typeset a:hover { color: #ffffff; }
+.md-banner .md-typeset a .announce-cta { color: #d9c2ff; }
+
+/* Sidebar nav */
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active { color: var(--bb-purple); font-weight: 600; }
+[data-md-color-scheme="slate"] .md-nav__link--active { color: #c9a8ff; }
+.md-nav__title { color: var(--md-default-fg-color); }
+@media screen and (max-width: 76.234375em) {
+  .md-nav--primary .md-nav__title[for="__drawer"] {
+    background-color: var(--bb-bg);
+    color: var(--md-primary-fg-color);
+    border-bottom: 1px solid var(--bb-border);
+  }
+  .md-nav--primary .md-nav__title .md-logo img { height: 2rem; width: auto; }
+}
+
+/* Content cards: white rounded panels like the course site cards */
+.md-typeset table:not([class]) {
+  background: var(--bb-surface);
+  border: 1px solid var(--bb-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+.md-typeset table:not([class]) th { background: #f5edf7; color: var(--bb-plum); }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th { background: #22093a; color: #f3eaff; }
+.md-typeset .admonition, .md-typeset details { border-radius: 12px; }
+.md-typeset .md-button {
+  border-radius: var(--bb-radius);
+  font-weight: 600;
+  color: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+}
+.md-typeset .md-button--primary,
+.md-typeset .md-button:hover {
+  background: var(--md-primary-fg-color);
+  border-color: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+}
+.md-typeset iframe { border-radius: 12px; }
+
+/* ---- Footer: matches course-site footer ---- */
+.md-footer { background-color: var(--bb-bg); color: var(--bb-plum); border-top: 1px solid var(--bb-border); }
+.md-footer-meta { background-color: var(--bb-bg); }
+.md-footer-meta__inner { align-items: center; padding: 0.6rem 0.4rem; }
+.bb-footer { width: 100%; margin: 0; padding: 0.6rem 0.6rem 0.2rem; color: var(--bb-muted); }
+.bb-footer__row {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;
+  gap: 0.6rem 1.6rem; padding-bottom: 0.8rem; border-bottom: 1px solid var(--bb-border);
+}
+.bb-footer__brand {
+  color: var(--md-primary-fg-color) !important;
+  font-weight: 800; letter-spacing: 0.02em; text-transform: uppercase; font-size: 0.75rem;
+}
+.bb-footer__links { display: flex; flex-wrap: wrap; gap: 0.4rem 1.4rem; }
+.md-footer-meta.md-typeset .bb-footer__links a,
+.bb-footer__links a { color: var(--bb-muted); font-weight: 500; font-size: 0.7rem; }
+[data-md-color-scheme="slate"] .bb-footer__links a { color: #c7bcd4; }
+.md-footer-meta.md-typeset .bb-footer__links a:hover { color: var(--md-primary-fg-color); }
+.bb-footer__legal { text-align: center; color: var(--bb-muted); font-size: 0.65rem; padding-top: 0.6rem; }
+.md-social { padding: 0.4rem 0.6rem; margin: 0 auto; }
+.md-social__link { color: var(--bb-muted); }
+.md-social__link:hover { color: var(--md-primary-fg-color); }
+@media screen and (min-width: 45em) {
+  .md-footer-meta__inner { flex-wrap: wrap; }
+}
+
+/* ==========================================================================
+   Existing wiki components (restyled to brand below)
+   ========================================================================== */
 /* Announcement bar */
 .md-announce a {
   color: inherit;
@@ -6,6 +284,7 @@
   text-align: center;
 }
 .md-announce .announce-cta {
+  color: #d9c2ff;
   margin-left: 0.35rem;
   font-weight: 700;
   text-decoration: underline;
@@ -15,11 +294,12 @@
 /* Course CTA cards */
 .bb-cta {
   border: 1px solid var(--md-default-fg-color--lightest);
-  border-left: 4px solid #f59e0b;
-  border-radius: 0.4rem;
+  border-left: 4px solid var(--bb-purple);
+  border-radius: 12px;
   padding: 0.85rem 1rem;
   margin: 1rem 0 1.25rem;
-  background: var(--md-code-bg-color);
+  background: var(--bb-surface);
+  box-shadow: 0 2px 10px rgba(27, 2, 47, 0.05);
 }
 .bb-cta--compact {
   padding: 0.65rem 0.9rem;
@@ -50,16 +330,16 @@
 }
 .bb-cta__btn {
   display: inline-block;
-  background: #f59e0b;
-  color: #1a1a1a !important;
-  font-weight: 700;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color) !important;
+  font-weight: 600;
   font-size: 0.8rem;
-  padding: 0.45rem 0.9rem;
-  border-radius: 0.3rem;
+  padding: 0.6rem 1.1rem;
+  border-radius: var(--bb-radius);
   text-decoration: none !important;
 }
 .bb-cta__btn:hover {
-  filter: brightness(1.05);
+  background: var(--md-primary-fg-color--light);
 }
 .bb-cta__link {
   font-size: 0.8rem;
@@ -71,4 +351,22 @@
 /* Partner note in buying guide */
 .bb-partner {
   font-size: 0.85rem;
+}
+
+/* Keep the open search box on-screen: tuck the Login pill away while searching */
+[data-md-toggle="search"]:checked ~ .md-header .bb-login { display: none; }
+/* Dark mode: the logo artwork is dark-on-transparent, so give it a light chip */
+[data-md-color-scheme="slate"] .md-logo img {
+  background: #fcf7fc;
+  border-radius: 8px;
+  padding: 2px 5px;
+}
+[data-md-toggle="search"]:checked ~ .md-header .bb-sitenav__link:not(.bb-sitenav__link--gear) { display: none; }
+/* Mobile drawer: repo row in brand colors instead of dark primary */
+@media screen and (max-width: 76.234375em) {
+  .md-nav--primary .md-nav__source {
+    background-color: #f5edf7;
+    color: var(--bb-muted);
+  }
+  [data-md-color-scheme="slate"] .md-nav--primary .md-nav__source { background-color: #22093a; color: #c7bcd4; }
 }

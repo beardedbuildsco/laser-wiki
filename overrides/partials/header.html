@@ -1,0 +1,78 @@
+{#-
+  Override of Material's header partial (mkdocs-material 9.x).
+  Adds the Laser Learning Lab (course.beardedbuildsco.com) top navigation
+  so the wiki header matches the course site. Everything else is upstream.
+-#}
+{% set class = "md-header" %}
+{% if "navigation.tabs.sticky" in features %}
+  {% set class = class ~ " md-header--shadow md-header--lifted" %}
+{% elif "navigation.tabs" not in features %}
+  {% set class = class ~ " md-header--shadow" %}
+{% endif %}
+<header class="{{ class }}" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header') }}">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      {% set icon = config.theme.icon.menu or "material/menu" %}
+      {% include ".icons/" ~ icon ~ ".svg" %}
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            {{ config.site_name }}
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            {% if page.meta and page.meta.title %}
+              {{ page.meta.title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="bb-sitenav" aria-label="Laser Learning Lab">
+      <a class="bb-sitenav__link bb-sitenav__link--active" href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}">Free Laser Wiki</a>
+      <a class="bb-sitenav__link bb-sitenav__link--gear" href="{{ 'buying-guides/gear-we-use/' | url }}">Gear I use</a>
+      <a class="bb-sitenav__link" href="https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&amp;utm_medium=header&amp;utm_campaign=nav">Master Lightburn</a>
+      <a class="bb-sitenav__link" href="https://course.beardedbuildsco.com/contact-us?utm_source=wiki&amp;utm_medium=header&amp;utm_campaign=nav">Contact us</a>
+    </div>
+    {% if config.theme.palette %}
+      {% if not config.theme.palette is mapping %}
+        {% include "partials/palette.html" %}
+      {% endif %}
+    {% endif %}
+    {% if not config.theme.palette is mapping %}
+      {% include "partials/javascripts/palette.html" %}
+    {% endif %}
+    {% if config.extra.alternate %}
+      {% include "partials/alternate.html" %}
+    {% endif %}
+    {% if "material/search" in config.plugins %}
+      {% set search = config.plugins["material/search"] | attr("config") %}
+      {% if search.enabled %}
+        <label class="md-header__button md-icon" for="__search">
+          {% set icon = config.theme.icon.search or "material/magnify" %}
+          {% include ".icons/" ~ icon ~ ".svg" %}
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+    {% endif %}
+    {% if config.repo_url %}
+      <div class="md-header__source">
+        {% include "partials/source.html" %}
+      </div>
+    {% endif %}
+    <a class="bb-login" href="https://course.beardedbuildsco.com/login?utm_source=wiki&amp;utm_medium=header&amp;utm_campaign=login">Login</a>
+  </nav>
+  {% if "navigation.tabs.sticky" in features %}
+    {% if "navigation.tabs" in features %}
+      {% include "partials/tabs.html" %}
+    {% endif %}
+  {% endif %}
+</header>

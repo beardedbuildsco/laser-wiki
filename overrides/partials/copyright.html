@@ -1,0 +1,21 @@
+{#-
+  Override of Material's copyright partial: Laser Learning Lab footer,
+  matching the footer on course.beardedbuildsco.com.
+-#}
+<div class="md-copyright bb-footer">
+  <div class="bb-footer__row">
+    <a class="bb-footer__brand" href="https://course.beardedbuildsco.com/?utm_source=wiki&amp;utm_medium=footer&amp;utm_campaign=brand">Laser Learning Lab</a>
+    <nav class="bb-footer__links" aria-label="Laser Learning Lab links">
+      <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}">Resources</a>
+      <a href="{{ 'buying-guides/gear-we-use/' | url }}">Gear I use</a>
+      <a href="https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&amp;utm_medium=footer&amp;utm_campaign=nav">Master Lightburn</a>
+      <a href="https://course.beardedbuildsco.com/contact-us?utm_source=wiki&amp;utm_medium=footer&amp;utm_campaign=nav">Contact us</a>
+      <a href="https://beardedbuildsco.com">Shop</a>
+    </nav>
+  </div>
+  {% if config.copyright %}
+    <div class="md-copyright__highlight bb-footer__legal">
+      {{ config.copyright }}
+    </div>
+  {% endif %}
+</div>
