@@ -17,6 +17,9 @@ You've got the crate open and the laser sitting where it's going to live. This p
 
 Work through the steps in order. A couple of them won't apply to your model, and that's fine. Skipping the ones that *do* apply is how you end up chasing weak cuts and fuzzy engraves for weeks.
 
+!!! tip "Running a OneLaser instead of an OMTech?"
+    Use the machine-specific versions: [X-Series (XT / XRF)](onelaser-x-series-setup.md) · [Hydra Gen2](onelaser-hydra-setup.md).
+
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Once it's set up, Master LightBurn takes you from test card to sellable work.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=omtech-setup-guide)
 </div>
