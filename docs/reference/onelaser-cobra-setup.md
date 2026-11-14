@@ -3,11 +3,11 @@ title: OneLaser Cobra Setup Guide
 description: How to set up a OneLaser Cobra 8, 10 or 14 glass-tube CO2 laser, from OneLaser's official Cobra manual plus my own setup notes.
 ---
 
-<!-- DRAFT (not rendered): companion to the OMTech setup guide. Sources: 1laser.com product pages and spec chart, OneLaser Wiki Cobra User's Manual (wiki.1laser.com/onelaser-cobra/user-manual), Brandt's general CO2 videos. No Brandt Cobra-specific video exists yet. Captured Nov 14, 2026. -->
+<!-- DRAFT (not rendered): OneLaser setup reference. Sources: 1laser.com product pages and spec chart, OneLaser Wiki Cobra User's Manual (wiki.1laser.com/onelaser-cobra/user-manual), Brandt's general CO2 videos. No Brandt Cobra-specific video exists yet. Captured Nov 14, 2026. -->
 
 # OneLaser Cobra (8 / 10 / 14) Setup Guide
 
-The Cobra is OneLaser's **glass-tube CO₂** cabinet laser, and it's their entry point for a laser business. Of the three OneLaser lines it's the most like the OMTech machines in my [OMTech setup guide](omtech-setup-guide.md). There's a water chiller, three mirrors and a laser key, so nearly all of that guide applies.
+The Cobra is OneLaser's **glass-tube CO₂** cabinet laser, and it's their entry point for a laser business. Of the three OneLaser lines it's the most traditional CO₂ setup: a water chiller, three mirrors and a laser key.
 
 I don't have a Cobra in my shop yet, so this page is built from OneLaser's official [Cobra user manual](https://wiki.1laser.com/onelaser-cobra/user-manual) and spec chart, plus the same glass-tube habits I use on my Hydra.
 
@@ -176,7 +176,7 @@ OneLaser aligns the Cobra at the factory but recommends checking it **on arrival
 **Manual focus:** the laser key ring includes a **focal-length ruler**.
 
 **First job:**
-1. Run test cards (see the [OMTech guide](omtech-setup-guide.md#13-test-cards)).
+1. Run test cards.
 2. Start from OneLaser's [100 W](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/100w) or [130 W](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/130w) parameter pages.
 3. Use my [starter settings](../materials/starter-settings.md).
 

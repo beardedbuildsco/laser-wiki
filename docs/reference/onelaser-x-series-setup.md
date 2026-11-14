@@ -3,13 +3,11 @@ title: OneLaser X-Series (XT / XRF) Setup Guide
 description: How I set up a OneLaser XT or XRF desktop CO2 laser, with OneLaser's official steps, my own shop notes, and video walkthroughs.
 ---
 
-<!-- DRAFT (not rendered): companion to the OMTech setup guide. Sources: 1laser.com product pages, 2025 X Series manual (PDF), OneLaser Wiki (wiki.1laser.com), Brandt's YouTube videos. Captured Nov 14, 2026. -->
+<!-- DRAFT (not rendered): OneLaser setup reference. Sources: 1laser.com product pages, 2025 X Series manual (PDF), OneLaser Wiki (wiki.1laser.com), Brandt's YouTube videos. Captured Nov 14, 2026. -->
 
 # OneLaser X-Series (XT & XRF) Setup Guide
 
 I run an XRF in my own shop every day: tumblers, hat patches, cutting boards and award plaques. This is how I'd set up an X-Series from the crate. It combines OneLaser's official instructions with what I've learned running mine.
-
-Coming from an OMTech? Start with the [OMTech setup guide](omtech-setup-guide.md) for background. A lot of those steps are simpler or already done for you on the X-Series.
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Unboxed your X-Series? Master LightBurn gets you from first test cut to sellable work.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=onelaser-x-series-setup)
@@ -43,9 +41,9 @@ Both machines are **CO₂ lasers** (10.6 µm) on a gantry. The difference is the
 | Origin | **Rear left** | **Rear left** | OneLaser Wiki |
 | Laser safety class | **Conflicting:** manual says Class 2, XRF product page says "Class 1 design" | Same | Manual vs. XRF page |
 
-## How the OMTech setup order maps to the X-Series
+## X-Series setup at a glance
 
-| OMTech step | XT | XRF |
+| Step | XT | XRF |
 |---|---|---|
 | 1. Install the tube | **Skip.** The tube ships installed | **Skip.** Sealed RF source |
 | 2. Cooling | Fill the internal tank (details below) | **Skip** |
@@ -194,7 +192,7 @@ This is OneLaser's recommended rhythm from their [maintenance guide](https://wik
 
 ### 10. First job
 
-1. Run test cards (see the [OMTech guide](omtech-setup-guide.md#13-test-cards)).
+1. Run test cards.
 2. Start from OneLaser's published starting parameters: [38 W RF](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/38w) or [55 W glass](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/55w).
 3. Use my [starter settings](../materials/starter-settings.md).
 
