@@ -86,6 +86,11 @@ nav:
       - CO2 tube and mirror maintenance: machines/co2-tube-and-mirror-maintenance.md
       - Fiber laser basics and marking: machines/fiber-laser-basics-and-marking.md
       - UV lasers: machines/uv-lasers.md
+  - Setup guides:
+      - OneLaser X-Series (XT / XRF): reference/onelaser-x-series-setup.md
+      - OneLaser Hydra Gen2: reference/onelaser-hydra-setup.md
+      - OneLaser Cobra: reference/onelaser-cobra-setup.md
+      - OMTech CO2 laser: reference/omtech-setup-guide.md
   - Materials:
       - What you can laser: materials/what-you-can-laser.md
       - Starter settings: materials/starter-settings.md
