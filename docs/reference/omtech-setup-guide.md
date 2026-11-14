@@ -95,8 +95,6 @@ OMTech sells three units:
 5. Running a CW5202 with only one laser? Loop a short piece of tubing from outlet B back to inlet B.
 6. Clamp every water connection with spring clamps or hose clamps. This applies to the stock pump setup too.
 
-**The MF1624-60 is the odd one out.** It has a built-in pump that works like a CW3000, not an active chiller. That's fine in a climate-controlled room for part-time use. Otherwise, add a real chiller. A [community post in a third-party OMTech Facebook group](https://www.facebook.com/groups/1364016877267714/posts/2037443476591714) (Facebook login required) shows one way to do it.
-
 **Air bubbles:** pea-size or larger bubbles stuck in the tube are bad news. Pinch the water line for a second or two and let go. The pulse usually breaks them loose.
 
 **Chiller modes on the CW5200 and CW5202:**
