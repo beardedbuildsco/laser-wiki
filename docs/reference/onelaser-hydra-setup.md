@@ -3,13 +3,11 @@ title: OneLaser Hydra Gen2 Setup Guide
 description: How to set up a OneLaser Hydra (Gen2 Pro or Hybrid), with OneLaser's official steps, my notes from setting up my Hydra 13, and video walkthroughs.
 ---
 
-<!-- DRAFT (not rendered): companion to the OMTech setup guide. Sources: 1laser.com product pages, Hydra Gen 2 User's Manual (PDF, rev. 251126), OneLaser Wiki (wiki.1laser.com), Brandt's Hydra 13 setup series on YouTube. Captured Nov 14, 2026. -->
+<!-- DRAFT (not rendered): OneLaser setup reference. Sources: 1laser.com product pages, Hydra Gen 2 User's Manual (PDF, rev. 251126), OneLaser Wiki (wiki.1laser.com), Brandt's Hydra 13 setup series on YouTube. Captured Nov 14, 2026. -->
 
 # OneLaser Hydra Gen2 Setup Guide
 
 My Hydra 13 is the big cutter in my shop. It has a 130 W glass tube for cutting plus a 38 W RF tube for detail, and it'll take most of a 4×8 sheet if I trim one end. I filmed the whole setup as a five-part series, and each step below links the part (and the spot in it) where I do that step. This page combines OneLaser's official Gen2 instructions with what I ran into doing it myself.
-
-Coming from an OMTech? See the [OMTech setup guide](omtech-setup-guide.md) for the basics. The Hydra handles a lot of them for you.
 
 !!! info "Gen1 vs Gen2"
     My Hydra 13 is a first-generation hybrid (130 W glass + 38 W RF), and **every video in my Hydra series was filmed on that Gen1 machine**. Most of the setup is the same on Gen2. Where my notes or videos show Gen1 hardware, I've said so.
@@ -274,7 +272,7 @@ Also blow out the RF tube cooling fan and exhaust fan, empty the waste hopper, a
 
 ### 11. First project
 
-Once LightBurn shows **Ready** and the offsets are in, run a small engrave on the RF tube and a cut on the glass tube. Start from the settings OneLaser includes, then dial in with test cards (see the [OMTech guide](omtech-setup-guide.md#13-test-cards)).
+Once LightBurn shows **Ready** and the offsets are in, run a small engrave on the RF tube and a cut on the glass tube. Start from the settings OneLaser includes, then dial in with test cards.
 
 **Watch:** [Hydra series Part 5 – Connect to LightBurn & Run Your First Project](https://youtu.be/uB9iavKPw44?t=332s) at 5:32 — finding your own scanning offsets, then running the first projects.
 
