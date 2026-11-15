@@ -19,7 +19,7 @@ Always run a small test on a scrap from the *same batch* of material. Coatings, 
 | Plywood / Baltic birch | Cut signs, layered art | Glue lines can char unevenly; exterior glues may be nastier — know your sheet |
 | MDF / HDF | Cheap blanks, prototypes | Dusty, strong smell; exhaust is mandatory |
 | Paper / cardstock | Invitations, packaging | Fire risk is high — air assist and attention |
-| Leather / some vegan leathers | Patches, wallets | Real leather engraves nicely; synthetics vary — some are vinyl (unsafe) |
+| Veg-tanned leather / PU leatherette | Patches, wallets | Veg-tanned leather engraves nicely. Avoid chrome-tanned leather and PVC faux leather — ask your supplier if unsure |
 | Cork | Coasters, boards | Engraves well; cutting thickness limited by power |
 | Rubber (laser-safe stamp rubber) | Stamps | Use rubber sold for laser; random rubber may be unsafe |
 
@@ -67,6 +67,7 @@ Always run a small test on a scrap from the *same batch* of material. Coatings, 
 Treat this list as **do not laser** unless you have industrial controls and expertise far beyond a typical maker laser:
 
 - **PVC / vinyl / faux leather that is PVC-based** — chlorine gas / HCl risk
+- **Chrome-tanned leather** — tanned with chromium salts; lasering can release chromium compounds (including hexavalent chromium) and harsh fumes. Most cheap and upholstery leather is chrome-tanned. Use vegetable-tanned leather, and if you can't confirm how it was tanned, skip it
 - **PVDC and other chlorine plastics**
 - **Unknown “mystery plastic”** — identify first (recycling codes help but are not perfect)
 - **Polycarbonate** for cutting workflows — poor results and harsh byproducts
