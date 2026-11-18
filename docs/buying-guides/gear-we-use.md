@@ -161,6 +161,7 @@ Browse every current list (including household items we skipped here): [amazon.c
 
 ## Related reading
 
+- [Diode laser buying guide](diode-buying-guide.md) — budget, mid-range, and xTool diode picks
 - [Laser buying guide](laser-buying-guide.md)
 - [Laser types](../machines/laser-types.md)
 - [Ventilation and safety](../machines/ventilation-and-safety.md)

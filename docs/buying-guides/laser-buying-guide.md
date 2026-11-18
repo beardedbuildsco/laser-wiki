@@ -53,6 +53,8 @@ Typical traits:
 
 **Watch-outs:** undersized exhaust, missing fire safety plan, buying only on “watts” without checking real cut tests from trusted reviewers.
 
+Looking at diode lasers? See the [diode laser buying guide](diode-buying-guide.md) for specific models and current prices.
+
 ### Small-shop / side-business tier
 
 **Goal:** repeatable products (plaques, tumblers, small batch signs) with less fighting the machine.
@@ -149,6 +151,7 @@ We are not your compliance officer — verify regulations for your location.
 
 ## Related reading
 
+- [Diode laser buying guide](diode-buying-guide.md) — budget, mid-range, and xTool picks with current prices
 - [Finding customers](../business/finding-customers.md) — pick a customer lane before you buy for “everyone”
 - [Gear we use](gear-we-use.md) (Amazon affiliate picks from our storefront)
 - [Laser types](../machines/laser-types.md)
