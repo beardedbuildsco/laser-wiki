@@ -71,6 +71,10 @@ Starter machines for learning LightBurn, gifts, and small sales. All five below 
 
 ### Atomstack A10 Pro V2 {#atomstack-a10-pro-v2}
 
+[![Atomstack A10 Pro V2 diode laser](../assets/diode-guide/atomstack-a10-pro-v2.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0DHG6HZ26?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Atomstack*
+
 **$229.99 on Amazon** (maker price $229, machine only; prices checked Nov 18, 2026)
 
 - **Laser:** 10 W optical output, 455 nm diode
@@ -83,6 +87,10 @@ Starter machines for learning LightBurn, gifts, and small sales. All five below 
 **Where to buy:** [Amazon](https://www.amazon.com/dp/B0DHG6HZ26?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } · [Atomstack](https://shop.atomstack.com/products/atomstack-a10-pro-v2-laser-engraver){: rel="noopener" target="_blank" }
 
 ### Twotrees TTS-10 Pro {#twotrees-tts-10-pro}
+
+[![Twotrees TTS-10 Pro diode laser](../assets/diode-guide/twotrees-tts-10-pro.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0HDNCZL8V?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Twotrees*
 
 **$230.99 on Amazon** (prices checked Nov 18, 2026)
 
@@ -97,6 +105,10 @@ Starter machines for learning LightBurn, gifts, and small sales. All five below 
 
 ### Sculpfun S9 Pro {#sculpfun-s9-pro}
 
+[![Sculpfun S9 Pro diode laser](../assets/diode-guide/sculpfun-s9-pro.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0GRZBGCYL?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Sculpfun*
+
 **$259.00 on Amazon** (maker clearance price $249.99, ships from China per the maker's variant; prices checked Nov 18, 2026)
 
 - **Laser:** 10 W diode, 450 nm, 0.06 mm spot
@@ -110,6 +122,10 @@ Starter machines for learning LightBurn, gifts, and small sales. All five below 
 
 ### Atomstack A20 Pro V2 {#atomstack-a20-pro-v2}
 
+[![Atomstack A20 Pro V2 diode laser](../assets/diode-guide/atomstack-a20-pro-v2.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0DHG5LNKL?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Atomstack*
+
 **$389.99 on Amazon** (maker price $369, machine only; prices checked Nov 18, 2026)
 
 - **Laser:** 20 W optical output, 455 nm, 0.08 × 0.10 mm spot
@@ -122,6 +138,10 @@ Starter machines for learning LightBurn, gifts, and small sales. All five below 
 **Where to buy:** [Amazon](https://www.amazon.com/dp/B0DHG5LNKL?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } · [Atomstack](https://shop.atomstack.com/products/atomstack-ace-pro-v2){: rel="noopener" target="_blank" }
 
 ### Creality Falcon A1C {#creality-falcon-a1c}
+
+[![Creality Falcon A1C diode laser](../assets/diode-guide/creality-falcon-a1c.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0H412D1NH?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Creality*
 
 **$399.00 on Amazon** (10 W version; prices checked Nov 18, 2026)
 
@@ -153,6 +173,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 
 ### Creality Falcon A1 {#creality-falcon-a1}
 
+[![Creality Falcon A1 diode laser](../assets/diode-guide/creality-falcon-a1.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0DRVQNYQ1?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Creality*
+
 **$549.00 on Amazon** (prices checked Nov 18, 2026)
 
 - **Laser:** 10 W optical output, 455 nm diode, 0.06 × 0.08 mm spot
@@ -165,6 +189,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 **Where to buy:** [Amazon](https://www.amazon.com/dp/B0DRVQNYQ1?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } · [Creality](https://www.creality.com/products/creality-falcon-a1-laser-engraver){: rel="noopener" target="_blank" }
 
 ### Sculpfun E1 {#sculpfun-e1}
+
+[![Sculpfun E1 diode laser](../assets/diode-guide/sculpfun-e1.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0HCC3P56F?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Sculpfun*
 
 **$599.00 on Amazon** (maker price $499 for the 12 W single-laser model; prices checked Nov 18, 2026)
 
@@ -179,6 +207,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 
 ### Atomstack A40 Pro V2 {#atomstack-a40-pro-v2}
 
+[![Atomstack A40 Pro V2 diode laser](../assets/diode-guide/atomstack-a40-pro-v2.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0D1XR1KDH?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Atomstack*
+
 **$739.99 on Amazon** (maker price $769 with the F60 air-assist kit; prices checked Nov 18, 2026)
 
 - **Laser:** switchable 48 W / 24 W diode head (Atomstack's rating, not independently measured), 0.08 × 0.10 mm spot
@@ -191,6 +223,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 **Where to buy:** [Amazon](https://www.amazon.com/dp/B0D1XR1KDH?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } · [Atomstack](https://atomstack.com/products/atomstack-ace-a40-pro-v2-laser-engraver){: rel="noopener" target="_blank" }
 
 ### Sculpfun E1 Pro {#sculpfun-e1-pro}
+
+[![Sculpfun E1 Pro diode laser](../assets/diode-guide/sculpfun-e1-pro.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0HJMMB3B2?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Sculpfun*
 
 **$799.00 on Amazon** (maker price $799, marked down from $949; prices checked Nov 18, 2026)
 
@@ -205,6 +241,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 
 ### Ortur Laser Master 3 {#ortur-laser-master-3}
 
+[![Ortur Laser Master 3 diode laser](../assets/diode-guide/ortur-laser-master-3.webp){ .bb-product-img loading=lazy width="360" }](https://www.orturlaser.com/products/ortur-laser-master-3-lm3){: rel="noopener" target="_blank" }
+
+*Image: Ortur*
+
 **$829 for the 20 W Basic model at Ortur** (list $1,399; prices checked Nov 18, 2026). We did not verify an Amazon listing for this model, so this is a **maker link only**.
 
 - **Laser:** 20 W (also sold as 10 W at $499 and 40 W at $1,299 on the same page)
@@ -217,6 +257,10 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 **Where to buy:** [Ortur](https://www.orturlaser.com/products/ortur-laser-master-3-lm3){: rel="noopener" target="_blank" }
 
 ### Creality Falcon2 Pro S {#creality-falcon2-pro-s}
+
+[![Creality Falcon2 Pro S diode laser](../assets/diode-guide/creality-falcon2-pro-s.webp){ .bb-product-img loading=lazy width="360" }](https://www.amazon.com/dp/B0CQ2QQ8PH?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" }
+
+*Image: Creality*
 
 **$849.00 on Amazon for the 22 W model** (maker price $899, MSRP $1,099; prices checked Nov 18, 2026)
 
@@ -246,6 +290,10 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 
 ### xTool M2 {#xtool-m2}
 
+[![xTool M2 diode laser](../assets/diode-guide/xtool-m2.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+
+*Image: xTool*
+
 **$499 (10 W) · $899 (20 W) · $1,299 (40 W) standalone** at xtool.com; bundles run higher (prices checked Nov 18, 2026)
 
 - **Laser:** 10, 20, or 40 W blue diode (445 nm). A 3 W IR module and a CMYK inkjet module are optional add-ons.
@@ -260,6 +308,10 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 
 ### xTool F2 {#xtool-f2}
 
+[![xTool F2 diode laser](../assets/diode-guide/xtool-f2.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+
+*Image: xTool*
+
 **$1,299 standalone** at xtool.com (bundles from $1,449; prices checked Nov 18, 2026)
 
 - **Laser:** 15 W blue **galvo** diode plus a 5 W 1064 nm IR laser. The IR laser is a different laser type, used for metal marking.
@@ -272,6 +324,10 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 **Where to buy:** [Buy the xTool F2 at xtool.com](https://www.xtool.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
 
 ### xTool S1 {#xtool-s1}
+
+[![xTool S1 diode laser](../assets/diode-guide/xtool-s1.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-s1-laser-cutter?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+
+*Image: xTool*
 
 **$1,448 for the 40 W Basic bundle**, but **sold out on xtool.com when checked** (prices checked Nov 18, 2026). Check stock and restock notices.
 
@@ -286,6 +342,10 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 
 ### xTool F1 Ultra {#xtool-f1-ultra}
 
+[![xTool F1 Ultra diode laser](../assets/diode-guide/xtool-f1-ultra.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+
+*Image: xTool*
+
 **$2,549 standalone** (list $2,999; the conveyor bundle is $2,999; prices checked Nov 18, 2026)
 
 - **Laser:** 20 W blue **galvo** diode plus 20 W fiber. The diode cuts wood up to 15 mm and acrylic up to 12 mm per xTool, in multiple passes. The fiber is for metal.
@@ -298,6 +358,10 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 **Where to buy:** [Buy the xTool F1 Ultra at xtool.com](https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
 
 ### xTool F2 Ultra {#xtool-f2-ultra}
+
+[![xTool F2 Ultra diode laser](../assets/diode-guide/xtool-f2-ultra.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+
+*Image: xTool*
 
 **$5,299 for the dual laser (60 W MOPA fiber + 40 W diode)** standalone (prices checked Nov 18, 2026)
 

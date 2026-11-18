@@ -370,3 +370,14 @@
   }
   [data-md-color-scheme="slate"] .md-nav--primary .md-nav__source { background-color: #22093a; color: #c7bcd4; }
 }
+
+/* Product photos in buying guides */
+.bb-product-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+.bb-product-img + em,
+p:has(> a > .bb-product-img) + p > em { font-size: 0.7rem; color: var(--md-default-fg-color--light); }
