@@ -29,6 +29,18 @@ When material thickness changes, **refocus**. A 6 mm plaque is not the same foca
 !!! tip "Jigs help"
     If you run the same blank daily, a bed jig that holds thickness constant saves more time than any “magic” setting.
 
+**Watch:** [Laser Ramp Test](https://youtu.be/KWrS1MsRoIM) — the ramp test is an essential setup step on any CO₂ laser. All you need is scrap material long enough to make a ramp and a sharp eye.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/KWrS1MsRoIM" title="Laser Ramp Test — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Watch:** [How to focus your CO₂ laser: manual and auto focus](https://youtu.be/dPFcHsHRpQo) — how both focus methods work, which helps when you choose a machine.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/dPFcHsHRpQo" title="How to Focus Your CO₂ Laser – Manual and Auto Focus — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## CO₂ mirrors and beam path (high level)
 
 Glass-tube CO₂ cabinets typically use mirrors to fold the beam to a focusing lens in the head.

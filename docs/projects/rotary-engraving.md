@@ -70,6 +70,31 @@ Disable rotary mode when you return to flat plaques — leaving it on is a class
 
 Most drinkware workflows engrave **coatings** (powder coat, paint, specialized laser coatings), not solid stainless with a diode. Fiber systems mark bare metals differently. Know which stack you own.
 
+## Rotary options and walkthroughs
+
+Two styles I have used:
+
+- **Roller rotary:** [Mansfield Customs CO₂ rotary](https://ebay.us/Y7fwTx){: rel="nofollow sponsored" target="_blank" } (affiliate link) is the roller-style rotary I run on my CO₂ laser.
+- **Chuck rotary:** the [PiBurn Grip 2](https://lensdigital.com/products/piburn-grip-2?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" } (affiliate link; code `BEARDEDBUILDS` saves 5%) holds pens, tumblers and odd-shaped items with its grip jaws.
+
+**Watch:** [Laser Rotary Setup and Calibrating Steps per Rotation Using LightBurn](https://youtu.be/2wZhMsy8-54) — set up a roller-style rotary and configure steps per rotation. The settings shown are specific to my rotary, laser and setup, but the principles carry over.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/2wZhMsy8-54" title="Laser Rotary Setup and Calibrating Steps per Rotation Using LightBurn — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Watch:** [How to Laser Engrave Tumblers with a CO₂ Laser](https://youtu.be/PWLOP94rl9M) — LightBurn settings, the tumblers I use and how to get them nice and shiny.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/PWLOP94rl9M" title="How to Laser Engrave Tumblers with a CO₂ Laser — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+**Watch:** [Piburn Grip | How does it compare???](https://youtu.be/W7mEjb2JP5M) — my take on the original PiBurn Grip (the Grip 2 is the newer version) and how it compares with other rotary options.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/W7mEjb2JP5M" title="Piburn Grip | How does it compare??? — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Related reading
 
 - [Finding customers](../business/finding-customers.md) — local businesses reorder drinkware

@@ -36,6 +36,14 @@ We partner with **OneLaser**. Links below include our referral; use code `BEARDE
 
 ## Air assist
 
+Upgrading your air assist is mostly about cleaner cuts; it helps somewhat with engraving, but the biggest benefit shows up on cut operations. A DIY system is pretty straightforward: connect a compressor (preferably an oil-free, quiet one) to a regulator, then a 24V DC solenoid that the laser controller switches on, then tie that into the laser's stock air assist line. The parts below cover each step.
+
+**Watch:** [Upgrade your air assist](https://youtu.be/y08B1v8-q-c) — the full DIY install.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/y08B1v8-q-c" title="Upgrade Your Air Assist — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Solenoids, tubing, regulators, fittings, and a quieter compressor option for stronger air assist.
 
 - [AOMAG® 1/4" DC 24V 2 Way Normally Closed Pneumatic Aluminum Electric Solenoid Air Valve](https://www.amazon.com/dp/B07BW21Z5M?tag=beardedbuilds-20){: rel="nofollow sponsored" target="_blank" } — 24V solenoid valve commonly used to switch air assist on with the laser.
@@ -56,6 +64,14 @@ Solenoids, tubing, regulators, fittings, and a quieter compressor option for str
 </div>
 
 ## Upgrades & equipment
+
+Upgrades help you get the most out of a machine, but you do not need them to get started. I ran my machine on all stock components for 9 months before upgrading anything.
+
+**Watch:** [Tour of my 60W laser](https://youtu.be/wYpYrivsLj8) — how my shop is set up and the upgrades I have made.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/wYpYrivsLj8" title="Tour of My 60W Laser — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Chillers, exhaust fans/ducting, basic air pumps, enclosure lighting, and chill-loop accessories.
 

@@ -34,6 +34,14 @@ Practical consensus from LightBurn forum cleaning threads:
 !!! warning "Do not polish with random shop rags"
     Grit turns a cleaning session into a new lens purchase. Use optics-rated wipes.
 
+**My routine:** a dirty lens can dramatically change the quality of your cuts and engravings, and a neglected one can quickly become a replacement. I clean mine at least once a week with isopropyl alcohol and a microfiber cloth, and more often as run time goes up.
+
+**Watch:** [Lens Cleaning](https://youtu.be/HpaPEYRWnzw) — the quick procedure, start to finish.
+
+<div class="bb-video" markdown="0">
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/HpaPEYRWnzw" title="Lens Cleaning — Bearded Builds Co" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Alignment is maintenance
 
 Align from the tube toward the lens, one station at a time, with **low-power pulses** on targets. Center the burn at both near and far travel for each mirror. Community advice repeatedly warns:
