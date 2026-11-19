@@ -42,6 +42,9 @@ theme:
 plugins:
   - search
 
+extra_javascript:
+  - javascripts/click-tracking.js
+
 extra_css:
   - stylesheets/extra.css
 
