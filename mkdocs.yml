@@ -48,6 +48,9 @@ extra_css:
 copyright: Bearded Builds Co. All rights reserved. &copy; 2026
 
 extra:
+  analytics:
+    provider: google
+    property: G-S50E718CQ0
   generator: false
   social:
     - icon: fontawesome/brands/youtube
