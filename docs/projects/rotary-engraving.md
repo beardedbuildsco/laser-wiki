@@ -100,7 +100,7 @@ Two styles I have used:
 - [Finding customers](../business/finding-customers.md) — local businesses reorder drinkware
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Focus and alignment](../machines/focus-and-alignment.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 
 ## Go further
 

@@ -55,7 +55,7 @@ Thin tags and coins warp. Use jigs, intermittent passes, or thermal sinks when n
 ## Related reading
 
 - [Fiber laser basics](../machines/fiber-laser-basics-and-marking.md)
-- [Starter settings method](starter-settings.md)
+- [Finding your settings](starter-settings.md)
 - [Pricing laser work](../business/pricing-laser-work.md)
 
 ## Sources and further reading

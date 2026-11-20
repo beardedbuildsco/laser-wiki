@@ -23,7 +23,7 @@ If you're still deciding on a machine, start with the [laser buying guide](../bu
 
 ## 2. Finding your settings
 
-There's no universal slate recipe. Slate varies from quarry to quarry, even from batch to batch, so build your numbers on your machine ([starter settings](starter-settings.md) covers the method).
+There's no universal slate recipe. Slate varies from quarry to quarry, even from batch to batch, so build your numbers on your machine ([finding your settings](starter-settings.md) covers the method).
 
 1. **Run a LightBurn Material Test on a scrap** from the same batch you'll use for the real job.
 2. **Engrave at focus.** Set it on the top surface ([focus and alignment](../machines/focus-and-alignment.md)) and use **Fill** mode.
@@ -71,7 +71,7 @@ For photos, use an image mode with **dithering** (Jarvis or Stucki work well in 
 ## Related reading
 
 - [What you can laser](what-you-can-laser.md)
-- [Starter settings](starter-settings.md)
+- [Finding your settings](starter-settings.md)
 - [Laser types](../machines/laser-types.md)
 - [Focus and alignment](../machines/focus-and-alignment.md)
 - [Engraving a plaque](../projects/engraving-a-plaque.md)

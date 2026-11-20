@@ -393,7 +393,7 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 - [Laser types: diode, CO₂, fiber, and UV](../machines/laser-types.md)
 - [Ventilation and safety](../machines/ventilation-and-safety.md)
 - [LightBurn basics](../lightburn/lightburn-basics.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 
 ## Go further
 

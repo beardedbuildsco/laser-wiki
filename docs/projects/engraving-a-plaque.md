@@ -99,7 +99,7 @@ If you need plaques made rather than making them yourself, that is literally our
 - [Finding customers](../business/finding-customers.md) — who buys plaques and how to reach them
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Pricing laser work](../business/pricing-laser-work.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 - [Engraving slate](../materials/engraving-slate.md) — settings, sealing, and tips for slate plaques
 
 ## Go further

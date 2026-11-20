@@ -298,7 +298,7 @@ Power line test: [How-to video (Edmonds Woodshop)](https://youtu.be/_VjU2OGeg-8)
 - [Focus and alignment](../machines/focus-and-alignment.md)
 - [Ventilation and safety](../machines/ventilation-and-safety.md)
 - [CO₂ tube and mirror maintenance](../machines/co2-tube-and-mirror-maintenance.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 
 <div class="bb-cta" markdown="1">
 **Ready to actually make money with it?** [Master LightBurn](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=omtech-setup-guide) walks you through the software and workflows step by step. Shopping for a new machine? Use my OneLaser partner link [1laser.com/BEARDEDBUILDS](https://1laser.com/BEARDEDBUILDS) with code `BEARDEDBUILDS`.

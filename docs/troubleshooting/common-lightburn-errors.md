@@ -147,7 +147,7 @@ Work top to bottom; do not change five variables at once.
 
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Focus and alignment](../machines/focus-and-alignment.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 
 ## Go further
 

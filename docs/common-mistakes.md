@@ -13,7 +13,7 @@ People shop peak watt marketing, then discover they needed exhaust, a rotary, Li
 
 ## 2. Skipping scrap grids
 
-Copying a stranger’s speed/power screenshot onto a different tube, lens, and plywood brand wastes blanks. Use the [starter settings](materials/starter-settings.md) method.
+Copying a stranger’s speed/power screenshot onto a different tube, lens, and plywood brand wastes blanks. Use the [finding your settings](materials/starter-settings.md) method.
 
 ## 3. Wrong or unverified eyewear
 

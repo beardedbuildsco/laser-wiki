@@ -194,7 +194,7 @@ This is OneLaser's recommended rhythm from their [maintenance guide](https://wik
 
 1. Run test cards.
 2. Start from OneLaser's published starting parameters: [38 W RF](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/38w) or [55 W glass](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/55w).
-3. Use my [starter settings](../materials/starter-settings.md).
+3. Use the [finding your settings](../materials/starter-settings.md) method to dial it in.
 
 My [acrylic tips video](https://youtu.be/F3Cgcyrk6iM) was shot on the XRF.
 

@@ -13,7 +13,7 @@ Use the search bar at the top (or press Ctrl+K / Cmd+K on most setups) to jump s
 | Section | Start here |
 | --- | --- |
 | **Machines** | [Laser types](machines/laser-types.md) · [Focus & alignment](machines/focus-and-alignment.md) · [Ventilation & safety](machines/ventilation-and-safety.md) · [CO₂ maintenance](machines/co2-tube-and-mirror-maintenance.md) · [Fiber basics](machines/fiber-laser-basics-and-marking.md) · [UV lasers](machines/uv-lasers.md) |
-| **Materials** | [What you can laser](materials/what-you-can-laser.md) · [Starter settings](materials/starter-settings.md) · [Fiber metal marking](materials/fiber-metal-marking.md) |
+| **Materials** | [What you can laser](materials/what-you-can-laser.md) · [Finding your settings](materials/starter-settings.md) · [Fiber metal marking](materials/fiber-metal-marking.md) |
 | **LightBurn** | [LightBurn basics](lightburn/lightburn-basics.md) |
 | **Troubleshooting** | [Common LightBurn errors](troubleshooting/common-lightburn-errors.md) · [CO₂ problems](troubleshooting/co2-common-problems.md) · [Fiber problems](troubleshooting/fiber-common-problems.md) |
 | **Safety** | [Eye safety & fire](safety/laser-eye-safety-and-fire.md) · [Common mistakes](common-mistakes.md) |

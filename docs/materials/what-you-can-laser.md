@@ -92,7 +92,7 @@ Even “safe to laser” materials produce smoke and ultrafine particles. Pair e
 
 ## Related reading
 
-- [Starter settings](starter-settings.md) — how to find power/speed safely
+- [Finding your settings](starter-settings.md) — how to find power/speed safely
 - [Engraving slate](engraving-slate.md) — settings, sealing, and tips
 - [Laser types](../machines/laser-types.md)
 - [Engraving a plaque](../projects/engraving-a-plaque.md)

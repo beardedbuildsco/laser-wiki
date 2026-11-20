@@ -35,7 +35,7 @@ LightBurn start mode that treats the current head location as the job reference.
 Semiconductor laser (often blue ~450 nm) common in hobby gantry engravers. See [laser types](machines/laser-types.md).
 
 **DPI / LPI / interval**  
-Measures of how densely engraving scan lines are packed. See [starter settings](materials/starter-settings.md).
+Measures of how densely engraving scan lines are packed. See [finding your settings](materials/starter-settings.md).
 
 **DSP controller**  
 Dedicated motion controller hardware found on many CO₂ machines (e.g. Ruida-class ecosystems).
@@ -113,7 +113,7 @@ A light vector pass that marks without fully cutting through.
 LightBurn setting controlling how the job is positioned (Absolute, Current Position, User Origin, etc.).
 
 **Test grid**  
-Matrix of small samples varying power/speed to find good settings. See [starter settings](materials/starter-settings.md).
+Matrix of small samples varying power/speed to find good settings. See [finding your settings](materials/starter-settings.md).
 
 **User Origin**  
 Operator-defined zero, handy for jigs.

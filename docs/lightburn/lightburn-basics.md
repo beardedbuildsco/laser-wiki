@@ -57,7 +57,7 @@ Never assume the red-dot preview equals the CO₂/diode beam path until you have
 9. Run the job while watching through a safe viewing method for your machine class.
 10. Stop immediately if you see uncontrolled flame.
 
-Congratulations — that scrap is more valuable than a perfect Instagram post. Save the settings that worked into the Material Library ([starter settings](../materials/starter-settings.md)).
+Congratulations — that scrap is more valuable than a perfect Instagram post. Save the settings that worked into the Material Library ([finding your settings](../materials/starter-settings.md)).
 
 
 <div class="bb-cta bb-cta--mid" markdown="1">
@@ -92,7 +92,7 @@ Name layers by process (`engrave`, `score`, `cut`) so files stay maintainable wh
 ## Related reading
 
 - [Common LightBurn errors](../troubleshooting/common-lightburn-errors.md)
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 - [Engraving a plaque](../projects/engraving-a-plaque.md)
 
 ## Go further

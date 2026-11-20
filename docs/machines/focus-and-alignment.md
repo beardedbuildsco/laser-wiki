@@ -91,7 +91,7 @@ On many machines the red pointer is **not** perfectly coaxial with the cutting/e
 
 ## Related reading
 
-- [Starter settings](../materials/starter-settings.md)
+- [Finding your settings](../materials/starter-settings.md)
 - [Ventilation and safety](ventilation-and-safety.md)
 - [Common LightBurn errors](../troubleshooting/common-lightburn-errors.md)
 

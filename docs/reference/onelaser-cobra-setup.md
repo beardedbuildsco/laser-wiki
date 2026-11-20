@@ -178,7 +178,7 @@ OneLaser aligns the Cobra at the factory but recommends checking it **on arrival
 **First job:**
 1. Run test cards.
 2. Start from OneLaser's [100 W](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/100w) or [130 W](https://wiki.1laser.com/en/knowledge-base/material-processing/different-materials-parameters/130w) parameter pages.
-3. Use my [starter settings](../materials/starter-settings.md).
+3. Use the [finding your settings](../materials/starter-settings.md) method to dial it in.
 
 ### 11. Maintenance rhythm
 
