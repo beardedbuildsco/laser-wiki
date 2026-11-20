@@ -100,6 +100,7 @@ If you need plaques made rather than making them yourself, that is literally our
 - [LightBurn basics](../lightburn/lightburn-basics.md)
 - [Pricing laser work](../business/pricing-laser-work.md)
 - [Starter settings](../materials/starter-settings.md)
+- [Engraving slate](../materials/engraving-slate.md) — settings, sealing, and tips for slate plaques
 
 ## Go further
 

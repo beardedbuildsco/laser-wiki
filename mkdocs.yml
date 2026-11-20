@@ -109,6 +109,7 @@ nav:
       - What you can laser: materials/what-you-can-laser.md
       - Starter settings: materials/starter-settings.md
       - Fiber metal marking: materials/fiber-metal-marking.md
+      - Engraving slate: materials/engraving-slate.md
   - LightBurn:
       - LightBurn basics: lightburn/lightburn-basics.md
   - Troubleshooting:

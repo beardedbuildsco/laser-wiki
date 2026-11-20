@@ -104,6 +104,7 @@ Fill these only with numbers you have tested on named machines. Until then, leav
 ## Related reading
 
 - [What you can laser](what-you-can-laser.md)
+- [Engraving slate](engraving-slate.md) — a worked example of this method
 - [Focus and alignment](../machines/focus-and-alignment.md)
 - [Common LightBurn errors](../troubleshooting/common-lightburn-errors.md)
 

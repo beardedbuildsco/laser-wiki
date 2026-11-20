@@ -52,7 +52,7 @@ Always run a small test on a scrap from the *same batch* of material. Coatings, 
 
 | Material | Typical result |
 | --- | --- |
-| Slate | Excellent high-contrast engrave on many diodes/CO₂ |
+| Slate | Excellent high-contrast engrave on many diodes/CO₂ — see [engraving slate](engraving-slate.md) |
 | Glass | Surface frost / etch; technique and masking matter; breakage risk |
 | Ceramic tile / coated tumblers | Often engrave the coating; substrate varies |
 | Marble / granite | Light surface etch possible; depth and contrast vary |
@@ -93,6 +93,7 @@ Even “safe to laser” materials produce smoke and ultrafine particles. Pair e
 ## Related reading
 
 - [Starter settings](starter-settings.md) — how to find power/speed safely
+- [Engraving slate](engraving-slate.md) — settings, sealing, and tips
 - [Laser types](../machines/laser-types.md)
 - [Engraving a plaque](../projects/engraving-a-plaque.md)
 
