@@ -1,6 +1,6 @@
 # Laser engraving slate (coasters, plaques, and keepsakes)
 
-Slate is one of my favorite materials to run. It's cheap, it looks fancy, and a good engrave turns dark stone into crisp light-gray artwork that customers assume cost way more than it did. It's also forgiving once you know the one rule: **slate wants a quick, clean mark, not a lot of heat.**
+Slate is an inexpensive material that engraves to a light-gray mark on dark stone, which makes it popular for coasters, plaques, and keepsakes. The main rule: **slate wants a quick, clean mark, not a lot of heat.**
 
 <div class="bb-cta bb-cta--compact" markdown="1">
 **Course:** [Slate photos and fine text look better when LightBurn settings click — Master LightBurn.](https://course.beardedbuildsco.com/master-lightburn?utm_source=wiki&utm_medium=cta&utm_campaign=engraving-slate)
