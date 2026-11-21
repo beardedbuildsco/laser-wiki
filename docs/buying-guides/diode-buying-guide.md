@@ -284,7 +284,7 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [xTool M2](#xtool-m2) | $499 (10 W) · $899 (20 W) · $1,299 (40 W) | 10 / 20 / 40 W | 426 × 320 mm (40 W: 426 × 312 mm) | Built-in pump | Enclosed, Class 1 | Dual cameras / auto focus | **No** |
 | [xTool F2](#xtool-f2) | $1,299 | 15 W diode + 5 W IR | 115 × 115 mm | Not listed | Enclosed, eye-safe | 50 MP camera / autofocus | Yes (2.2, no cameras) |
-| [xTool S1](#xtool-s1) | $1,448 (40 W Basic) — **sold out on xtool.com** | 40 W | 498 × 319 mm | Optional Smart Air Assist | Enclosed, Class 1 | Dual cameras / auto focus | Yes (USB) |
+| [xTool S1](#xtool-s1) | Refurbished only: $799 (20 W) · $1,199 (40 W) in stock; 10 W $639 sold out | 10 / 20 / 40 W | 498 × 319 mm | Optional Smart Air Assist | Enclosed, Class 1 | Dual cameras / auto focus | Yes (USB) |
 | [xTool F1 Ultra](#xtool-f1-ultra) | $2,549 (list $2,999) | 20 W diode + 20 W fiber | 220 × 220 mm | Not listed | Enclosed, safety cover | 16 MP camera / autofocus | Yes (2.2, no cameras) |
 | [xTool F2 Ultra](#xtool-f2-ultra) | $5,299 dual (60 W MOPA + 40 W diode) | 40 W diode + 60 W MOPA fiber | 220 × 220 mm | Not listed | Enclosed, safety cover | Dual 48 MP cameras / autofocus | Yes (2.2+, no cameras) |
 
@@ -325,20 +325,20 @@ xTool makes the most polished diode machines, with strong cameras, software, and
 
 ### xTool S1 {#xtool-s1}
 
-[![xTool S1 diode laser](../assets/diode-guide/xtool-s1.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/xtool-s1-laser-cutter?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+[![xTool S1 diode laser](../assets/diode-guide/xtool-s1.webp){ .bb-product-img loading=lazy width="360" }](https://www.xtool.com/products/refurbished-xtool-s1-enclosed-diode-laser-cutter?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
 
 *Image: xTool*
 
-**$1,448 for the 40 W Basic bundle**, but **sold out on xtool.com when checked** (prices checked Nov 18, 2026). Check stock and restock notices.
+**Sold refurbished only on xtool.com.** $799 (20 W) and $1,199 (40 W) were in stock; the 10 W is $639 but was sold out. 6-month warranty, US only (prices checked Nov 21, 2026).
 
-- **Laser:** 40 W blue diode, 0.08 × 0.10 mm spot (an optional 2 W 1064 nm IR module exists)
+- **Laser:** 10, 20, or 40 W blue diode (the 40 W has a 0.08 × 0.10 mm spot). An optional 2 W 1064 nm IR module exists.
 - **Work area:** 498 × 319 mm (19.6 × 12.5 in), with pass-through for long pieces
 - **Features:** enclosed Class 1, dual cameras, one-click auto focus, flame detection, emergency stop and lid-open stop, optional Smart Air Assist
 - **Software:** xTool Creative Space and **LightBurn** over USB (LightBurn lists the S1 as supported, but not the cameras)
-- **Good for:** an enclosed, LightBurn-friendly 40 W diode with a big bed
-- **Watch out:** availability. xTool also sells refurbished S1 units at times.
+- **Good for:** an enclosed, LightBurn-friendly diode with a big bed
+- **Watch out:** new S1s are no longer sold on xtool.com. If you want a new enclosed xTool diode, the [xTool M2](https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" } is $499 (10 W), $899 (20 W), or $1,299 (40 W), but it is **not LightBurn compatible** and runs only on xTool Studio.
 
-**Where to buy:** [Buy the xTool S1 at xtool.com](https://www.xtool.com/products/xtool-s1-laser-cutter?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
+**Where to buy:** [Buy a refurbished xTool S1 at xtool.com](https://www.xtool.com/products/refurbished-xtool-s1-enclosed-diode-laser-cutter?ref=BEARDEDBUILDS){: rel="nofollow sponsored" target="_blank" }
 
 ### xTool F1 Ultra {#xtool-f1-ultra}
 
