@@ -14,7 +14,7 @@ Community guidance (LightBurn forum and Sawmill Creek) converges on a few practi
 - Keep coolant **stable**, not just “cold.” Large swings (bucket + ice) show up as power drift and uneven engraves.
 - Many operators aim near **18–20 °C** water temperature for everyday work. Running much hotter tends to drop output and age tubes faster; running far below ambient dew point can invite **condensation** on optics and high-voltage parts.
 - Watch for **flow**, not only temperature: bubbles, kinked lines, failed pumps, and ignored water-protect inputs are classic tube killers.
-- Freezing shops need circulating coolant and freeze protection per the tube maker — cracked glass tubes from frozen water are a known risk.
+- Freezing shops need circulating coolant and freeze protection per the tube maker — cracked glass tubes from frozen water are a known risk. See [Winterizing your laser shop](winterization.md).
 
 !!! tip "Consistency beats heroics"
     Engraving large fills with ± a couple of degrees of water swing can band. Stabilize temperature before you chase new LightBurn settings.

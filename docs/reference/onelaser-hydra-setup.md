@@ -156,7 +156,7 @@ Use the OneLaser chiller or an S&A CW-5000-series unit, per the manual. OneLaser
 - Run it for a while, then top it back up to the green zone.
 - Small bubbles in the tube clear on their own after it circulates.
 
-**Antifreeze:** OneLaser's [approved antifreeze guide](https://wiki.1laser.com/en/accessories/approved-antifreeze) recommends pure distilled water above 5 °C (41 °F) and a **3:7 antifreeze-to-water** mix going into winter. Don't mix brands, and replace it every 2–3 months.
+**Antifreeze:** OneLaser's [approved antifreeze guide](https://wiki.1laser.com/en/accessories/approved-antifreeze) recommends pure distilled water above 5 °C (41 °F) and a **3:7 antifreeze-to-water** mix going into winter. Don't mix brands, and replace it every 2–3 months. Cold shop? See [Winterizing your laser shop](../machines/winterization.md).
 
 **Setting the mode:**
 - **Intelligent mode** is fine in an air-conditioned shop (mid-70s °F or cooler).

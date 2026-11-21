@@ -78,7 +78,7 @@ The Cobra **must** have water cooling, and it doesn't come with a chiller. OneLa
 3. Connect the included **chiller alarm cable** to the **Chiller Alarm** port.
 4. Clamp both hoses.
 
-**Coolant:** fill with **distilled water**. Don't use generic coolant or car antifreeze; OneLaser warns it can leave residue and clog the lines. For winter, use their [approved antifreeze](https://wiki.1laser.com/en/accessories/approved-antifreeze) at the recommended 3:7 mix.
+**Coolant:** fill with **distilled water**. Don't use generic coolant or car antifreeze; OneLaser warns it can leave residue and clog the lines. For winter, use their [approved antifreeze](https://wiki.1laser.com/en/accessories/approved-antifreeze) at the recommended 3:7 mix. Cold shop? See [Winterizing your laser shop](../machines/winterization.md).
 
 **Chiller settings:** I run constant mode at about 18 °C in my un-air-conditioned shop. Here's how I [program a chiller](https://youtu.be/6aOOl0uVssQ).
 

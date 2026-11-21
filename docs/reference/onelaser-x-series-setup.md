@@ -88,7 +88,7 @@ OneLaser ships the XT **with the tank drained**. If you power it on dry, you can
 - Change it every 2–3 months.
 - Don't mix brands.
 
-**Storage:** drain everything if the machine will sit unused for a long time.
+**Storage:** drain everything if the machine will sit unused for a long time. Cold shop? See [Winterizing your laser shop](../machines/winterization.md).
 
 ### 3. Exhaust
 

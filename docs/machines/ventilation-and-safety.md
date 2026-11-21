@@ -58,7 +58,7 @@ Cutting and engraving create smoke, ultrafine particles, and chemical byproducts
 ## Electrical and cooling
 
 - Use properly grounded outlets; avoid fragile DIY power strips for high-draw chillers and lasers
-- Keep coolant clean on water-cooled tubes; algae and low flow kill tubes
+- Keep coolant clean on water-cooled tubes; algae and low flow kill tubes. Cold shop? See [Winterizing your laser shop](winterization.md).
 - Route cables so the gantry cannot chafe through insulation
 
 ## Workplace habits that prevent accidents
