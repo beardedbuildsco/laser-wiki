@@ -29,7 +29,7 @@ Diode lasers are the cheapest way into laser engraving, and a good one can cut t
 | A small, enclosed, beginner-friendly machine | [Creality Falcon A1C](#creality-falcon-a1c) | Enclosed, camera, auto focus, but only a 150 × 150 mm bed |
 | An enclosed machine with a real work area | [Creality Falcon A1](#creality-falcon-a1) or [Sculpfun E1](#sculpfun-e1) | Enclosed, camera, air assist, bigger beds |
 | Maximum cutting power per dollar | [Atomstack A40 Pro V2](#atomstack-a40-pro-v2) | 48 W open frame for about $740 |
-| Enclosed, 22 W, autofocus, camera | [Creality Falcon2 Pro S](#creality-falcon2-pro-s) | Everything in one cabinet, about $850 |
+| Enclosed, 22 W, autofocus, camera | [Creality Falcon2 Pro S](#creality-falcon2-pro-s) | Everything in one cabinet, about $900 |
 | Best polish, and you don't need LightBurn | [xTool M2](#xtool-m2) | xTool Studio only. It is **not** LightBurn compatible |
 | Diode **plus** a metal-marking laser in one galvo machine | [xTool F2](#xtool-f2) / [F1 Ultra](#xtool-f1-ultra) | Small field, but LightBurn 2.2 supports them |
 
@@ -169,7 +169,7 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 | [Atomstack A40 Pro V2](#atomstack-a40-pro-v2) | $739.99 Amazon · $769 maker | 48 W / 24 W switchable (maker rating) | 385 × 400 mm | Included (F60 kit) | Open frame | No camera / auto focus | Yes (as GRBL) |
 | [Sculpfun E1 Pro](#sculpfun-e1-pro) | $799.00 Amazon · $799 maker | 21 W | 400 × 320 mm | Air pump included | Enclosed, Class 1 | Camera / manual focus | Yes |
 | [Ortur Laser Master 3 (20 W)](#ortur-laser-master-3) | $829 maker | 20 W | 400 × 380 mm | Air pump included | Open frame | Not listed | Yes |
-| [Creality Falcon2 Pro S 22W](#creality-falcon2-pro-s) | $849.00 Amazon · $899 maker | 22 W | 13.98 × 15.35 in (see note) | Integrated | Enclosed, Class 1 | Camera / one-click autofocus | Yes |
+| [Creality Falcon2 Pro S 22W](#creality-falcon2-pro-s) | $899 maker (kits $949–$999) — **sold out** | 22 W | 13.98 × 15.35 in (see note) | Integrated | Enclosed, Class 1 | Camera / one-click autofocus | Yes |
 
 ### Creality Falcon A1 {#creality-falcon-a1}
 
@@ -262,7 +262,7 @@ This is where enclosures, cameras, air assist in the box, and 20 W+ beams show u
 
 *Image: Creality*
 
-**$849.00 on Amazon for the 22 W model** (maker price $899, MSRP $1,099; prices checked Nov 18, 2026)
+**$899 for the 22 W single unit** at Creality Falcon (Basic Kits $949 and $959; All-in-one Kits $999; single-unit compare-at $1,099). **Sold out on crealityfalcon.com when checked** (prices checked Nov 21, 2026)
 
 - **Laser:** 22 W optical output, 455 nm diode (a 40 W Pro S exists above this tier)
 - **Work area:** 13.98 × 15.35 in per the US maker page (Creality's UK page lists 400 × 415 mm — confirm before you buy)
