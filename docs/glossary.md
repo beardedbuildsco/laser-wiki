@@ -1,3 +1,7 @@
+---
+description: "A practical glossary of laser engraving terms for diode, CO2, fiber, and UV shops, plus LightBurn, galvo, gantry, and shop-floor words."
+---
+
 # Glossary
 
 Short definitions for terms you will see across this wiki and in LightBurn / machine manuals. Links point to deeper pages where we have them.

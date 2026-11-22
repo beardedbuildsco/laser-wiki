@@ -1,3 +1,7 @@
+---
+description: "Common fiber and galvo problems: marks that miss the frame, weak metal marking, lens and focus mistakes, and inconsistent color results."
+---
+
 # Fiber / galvo common problems
 
 Fiber markers fail differently than CO₂ cabinets. There is no long mirror fold to clean every week — but focus, field lens choice, hatch settings, and red-dot offsets create their own confusion.

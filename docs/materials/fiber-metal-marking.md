@@ -1,3 +1,7 @@
+---
+description: "Fiber metal marking basics: stainless and other metals, focus and hatch, color-marking limits, and why test coupons can disagree with production."
+---
+
 # Fiber metal marking (practical guide)
 
 Fiber galvos earn their keep on metals: logos, serials, annealed blacks, deep marks, and (with the right source) color. This page is a shop map — not a settings spreadsheet. Build your own library with labeled grids.

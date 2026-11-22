@@ -1,3 +1,7 @@
+---
+description: "Diode laser buying guide with budget, mid-range, and notable xTool options, plus what to check before you buy a first or second diode."
+---
+
 # Diode laser buying guide
 
 Diode lasers are the cheapest way into laser engraving, and a good one can cut thin wood and engrave leather, slate, and coated metals. This guide shortlists current diode machines in three tiers — **budget (about $400 or less)**, **mid-range (up to about $1,000)**, and **notable xTool diode lasers** — and tells you what to check before you buy.

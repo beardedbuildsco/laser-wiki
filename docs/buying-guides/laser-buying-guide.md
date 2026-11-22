@@ -1,3 +1,7 @@
+---
+description: "Laser buying guide: match your materials, workspace, and budget to diode, CO2, fiber, or UV instead of chasing the highest watt number."
+---
+
 # Laser buying guide
 
 Buying a laser is less about chasing the highest watt number and more about matching **materials, workspace, and budget** to a machine family you can run safely every week.

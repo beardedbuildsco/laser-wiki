@@ -1,3 +1,7 @@
+---
+description: "The four laser types used in small shops: diode, CO2, fiber, and UV, what each one cuts or marks, and why galvo vs gantry is not a type."
+---
+
 # Laser types: diode, CO₂, fiber, and UV
 
 Not every “laser engraver” does the same job. The laser *type* is the **source** — what makes the beam and at what wavelength. The four you will hear about most are **diode**, **CO₂**, **fiber**, and **UV**. Wavelength decides what a machine can cut or mark, so picking the wrong type is the most expensive beginner mistake we see.

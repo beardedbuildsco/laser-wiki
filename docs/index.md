@@ -1,3 +1,7 @@
+---
+description: "Free laser wiki from Bearded Builds Co: practical guides on machines, materials, LightBurn, safety, and buying diode, CO2, fiber, or UV lasers."
+---
+
 # Bearded Builds Laser Wiki
 
 Welcome. This is our free laser knowledge base — practical guides from the shop floor at [Bearded Builds Co](https://beardedbuildsco.com). We cut and engrave custom plaques and gifts every week, teach LightBurn, and share what we learn so you can get better results without wasting material.

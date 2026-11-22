@@ -1,3 +1,7 @@
+---
+description: "Common CO2 laser problems, from weak cuts and dirty optics to cooling and alignment drift, with a practical order of checks."
+---
+
 # CO₂ common problems
 
 When a CO₂ cabinet that “used to cut fine” starts struggling, work the physical stack before rewriting every LightBurn layer. Forum threads across LightBurn and Sawmill Creek repeat the same shortlist.

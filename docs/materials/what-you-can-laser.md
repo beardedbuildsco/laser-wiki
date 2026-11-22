@@ -1,3 +1,7 @@
+---
+description: "What you can laser engrave or cut, and what you should never cut, across diode, CO2, fiber, and UV machines in a small shop."
+---
+
 # What you can (and cannot) laser
 
 Lasers are selective. A material that looks “plasticky” might cut beautifully — or release chlorine gas. This page is a shop-floor map of common materials, typical results, and hard stops.

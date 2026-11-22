@@ -1,3 +1,7 @@
+---
+description: "How to focus and align a laser so cuts stay even, including CO2 mirror folds, diode focus, and galvo working distance on fiber or UV."
+---
+
 # Focus and alignment
 
 A laser only delivers its best energy density when the beam is focused on (or intentionally relative to) the material surface, and when mirrors/lenses (on multi-optic machines) are aligned. Bad focus looks like “my laser got weak overnight.” Often it did not — the focal point moved.

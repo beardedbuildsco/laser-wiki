@@ -1,3 +1,7 @@
+---
+description: "How to engrave slate on a CO2 or diode laser, including prep, test grids, and aiming for a clean, light-gray mark on coasters and plaques."
+---
+
 # Laser engraving slate (coasters, plaques, and keepsakes)
 
 Slate is an inexpensive material that engraves to a light-gray mark on dark stone, which makes it popular for coasters, plaques, and keepsakes. The main rule: **slate wants a quick, clean mark, not a lot of heat.**

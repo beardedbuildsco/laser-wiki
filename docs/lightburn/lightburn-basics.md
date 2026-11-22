@@ -1,3 +1,7 @@
+---
+description: "LightBurn basics from install to a first scrap test: device setup, layers, power and speed, framing, and the workflow before you press Start."
+---
+
 # LightBurn basics: setup to first job
 
 LightBurn is the control software many diode and CO₂ (and some fiber) users rely on to design, nest, and run jobs. This page is a practical path from install to a finished scrap test — not a full manual replacement.

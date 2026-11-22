@@ -1,3 +1,7 @@
+---
+description: "Laser machines and shop supplies we actually use, including OneLaser CO2 lasers, air assist, maintenance parts, blanks, and tools."
+---
+
 # Laser gear & supplies we use
 
 Shop machines we partner on plus Amazon picks from our public [Bearded Builds storefront](https://www.amazon.com/shop/beardedbuildsco?tag=beardedbuilds-20) — air assist, maintenance parts, blanks, and shop tools that show up in real laser workflows. Listings change; confirm current specs and fit for *your* shop before you buy.

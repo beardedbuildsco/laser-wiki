@@ -1,3 +1,7 @@
+---
+description: "How to winterize a laser shop: protect a water-cooled CO2 tube from freezing, mix coolant correctly, and do a safe cold-start."
+---
+
 # Winterizing your laser shop
 
 A cold shop is hard on a laser, and a frozen glass tube is the expensive way to learn that. Water expands when it turns to ice, and a CO₂ glass tube's cooling jacket has nowhere for that expansion to go. The usual result is a cracked tube, and OneLaser and Thunder say freeze damage is not covered by warranty.

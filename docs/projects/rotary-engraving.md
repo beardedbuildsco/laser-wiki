@@ -1,3 +1,7 @@
+---
+description: "Rotary engraving on tumblers and round stock: LightBurn rotary setup, diameter entry, and how to avoid skewed logos and slip marks."
+---
+
 # Rotary engraving (tumblers and round stock)
 
 A rotary attachment turns your laser into a tumbler and bottle machine by rotating the part while the gantry engraves along its length. Setup mistakes show up as skewed logos, wrong circumference spacing, and slip marks. This page covers the workflow concepts that stay true across many diode and CO₂ rotary kits.

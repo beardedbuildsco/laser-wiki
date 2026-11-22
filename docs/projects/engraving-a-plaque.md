@@ -1,3 +1,7 @@
+---
+description: "A start-to-finish walkthrough for engraving a plaque, from art intake and material prep to focus, test burns, and a packed finished piece."
+---
+
 # Engraving a plaque from start to finish
 
 Plaques are a Bearded Builds staple: awards, leadership recognition, shop dedications, and gifts. This walkthrough covers a typical flat plaque — wood, laminate, acrylic, or slate — from art intake to packed product.

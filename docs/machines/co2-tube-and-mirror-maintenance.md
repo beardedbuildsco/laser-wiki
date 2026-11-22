@@ -1,3 +1,7 @@
+---
+description: "CO2 tube and mirror maintenance: keep cooling stable, clean the optics, and catch alignment drift before a glass-tube cabinet loses power."
+---
+
 # CO₂ tube and mirror maintenance
 
 Glass-tube CO₂ machines earn their keep when cooling stays stable and the beam path stays clean and centered. Most “my laser got weak overnight” stories in the community turn out to be dirty optics, loose lens rings, drifting alignment, or a tube that was cooked by bad cooling — not mysterious software.

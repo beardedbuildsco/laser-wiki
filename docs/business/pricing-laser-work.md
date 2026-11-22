@@ -1,3 +1,7 @@
+---
+description: "A method for pricing laser work, covering materials, labor, machine time, overhead, fees, and profit, rather than a single market rate."
+---
+
 # Pricing laser work
 
 Underpricing is how laser hobbies stay hobbies forever. This page is a **method** for building prices — not a list of “the market rate” numbers. Markets differ by city, niche, and whether you sell on Etsy, Shopify, wholesale, or local pickup.

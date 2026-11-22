@@ -1,3 +1,7 @@
+---
+description: "Common LightBurn errors and fixes, including connection failures, framing mismatches, and controller alarms you will see on the shop floor."
+---
+
 # Common LightBurn errors (and fixes)
 
 When LightBurn and the controller disagree, the symptoms look dramatic — but a short list of causes covers most shop-floor failures. Below are well-established issues and fixes. If your exact error string differs by controller, the *category* still usually applies.

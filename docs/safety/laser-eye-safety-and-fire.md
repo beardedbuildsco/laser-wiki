@@ -1,3 +1,7 @@
+---
+description: "Laser eye safety and fire prevention: wavelength-rated glasses for CO2, fiber, and UV, plus the fire habits that matter while a job runs."
+---
+
 # Laser eye safety and fire
 
 Lasers injure eyes, start fires, and make toxic smoke. This page expands the practical rules we already stress in [ventilation and safety](../machines/ventilation-and-safety.md) — especially **eyewear wavelength matching** and **fire discipline** — for CO₂, fiber, and UV shops.

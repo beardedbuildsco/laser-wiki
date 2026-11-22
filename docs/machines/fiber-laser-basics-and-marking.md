@@ -1,3 +1,7 @@
+---
+description: "Fiber laser basics for small-shop galvo markers: 1064 nm metals work, Q-switched vs MOPA, field lenses, and how marking differs from CO2."
+---
+
 # Fiber laser basics and marking (incl. MOPA)
 
 Fiber markers are the metal specialists in many shops. Instead of a gantry dragging a head across a bed, most hobby/small-shop fibers use a **galvo** head and an **F-theta** lens that marks inside a fixed field. LightBurn talks to them differently than a Ruida CO₂ — but the shop goals are familiar: clean logos, serials, and durable marks.

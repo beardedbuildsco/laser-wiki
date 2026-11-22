@@ -1,3 +1,7 @@
+---
+description: "How to find customers for a laser business: pick one or two buyer types, choose a main channel, and pitch work that fits your machine."
+---
+
 # Finding customers for your laser business
 
 The machine is not the business. Customers are. This page is a practical map of **who buys laser work**, **where to meet them**, and **how to pitch** — so you stop waiting for “someone to find your Etsy shop” and start building a pipeline that fits *your* lane.

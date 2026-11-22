@@ -1,3 +1,7 @@
+---
+description: "Common laser shop mistakes, from buying watts instead of a workflow to skipping test grids, exhaust, focus, and a safe startup habit."
+---
+
 # Common laser shop mistakes
 
 A short, opinionated list of mistakes we see (and that public forums repeat endlessly). Fix these before you buy another machine.

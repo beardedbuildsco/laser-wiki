@@ -1,3 +1,7 @@
+---
+description: "How to find laser settings with a test grid instead of copying a chart, for diode, CO2, fiber, and UV machines in a real shop."
+---
+
 # Finding your settings (test grids and method)
 
 There is no universal “wood = 50% power” chart that works on every laser. Power delivery, lens, focus, air assist, material brand, and even humidity change results. And with this many machines, wattages, lenses, and materials, any list of numbers would be out of date before you finished reading it. What *does* transfer between shops, and stays useful forever, is a **method**: understand the controls, then build a test grid on your machine.

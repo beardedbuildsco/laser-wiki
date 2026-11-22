@@ -1,3 +1,7 @@
+---
+description: "UV lasers for small shops: the 355 nm wavelength, low-heat marks on glass and plastics, and why UV is a specialist tool, not a replacement."
+---
+
 # UV lasers (what they are good for)
 
 UV marking lasers (often ~355 nm in galvo form factors) show up in shops that need **fine detail with less heat** than IR fiber or CO₂ — especially glass, some plastics, and heat-sensitive marks. They are not a magic replacement for every CO₂ or fiber job; they are a specialist tool with a steeper focus requirement.

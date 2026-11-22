@@ -1,3 +1,7 @@
+---
+description: "Laser ventilation and shop safety: exhaust, filtration, fire risk, and fumes from cutting wood, acrylic, and other common materials."
+---
+
 # Ventilation and safety
 
 Lasers create light energy, heat, fire risk, and airborne contaminants. A shop that skips ventilation and basic laser discipline eventually pays for it — in health, insurance, or a ruined machine.
